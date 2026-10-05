@@ -1,0 +1,98 @@
+1. AlterAgente: automação de rotinas do WShop
+O AlterAgente é um dos recursos mais característicos do WShop porque permite programar processos para execução automática, sem depender da operação manual diária.
+Ele pode executar, em horários definidos:
+Reajuste de preços por lote;
+Baixa automática de títulos;
+Atualização de estoque;
+Atualização da Curva ABC de produtos;
+Atualização da Curva ABC de clientes.
+Os agendamentos podem ser diários, semanais ou mensais, e o sistema mantém um registro das ocorrências para verificar se as rotinas foram executadas.
+ https://ajuda.alterdata.com.br/sat/alteragente-272138431.html
+
+2. Conferência de Expedição com conferência cega
+O WShop permite conferir produtos de vendas ou orçamentos utilizando leitor de código de barras, inclusive no modo conferência cega.
+Na prática, o expedidor pode separar a mercadoria sem visualizar previamente toda a lista de itens. Ao bipar os produtos, o sistema:
+Controla as quantidades conferidas;
+Identifica produtos incorretos;
+Aponta itens a mais ou a menos;
+Registra divergências;
+Permite continuar conferências pendentes;
+Trabalha com entrega futura;
+Pode exibir a foto do produto em caso de divergência.
+Esse recurso é especialmente útil para operações com alto volume de separação e expedição.
+https://ajuda.alterdata.com.br/sat/conferencia-de-expedicao-273286103.html
+
+3. Controle de Entrega e Expedição
+O módulo permite acompanhar o processo entre a venda, a separação e a entrega do produto ao cliente.
+Entre os recursos específicos estão:
+Localização de entregas por cliente, documento, orçamento, código ou data;
+Baixa parcial ou total da entrega;
+Baixa por cliente ou por documento;
+Histórico das baixas realizadas;
+Cancelamento de baixa por documento, cliente ou item;
+Status personalizados para as etapas da entrega;
+Identificação de produtos com estoque positivo;
+Identificação de produtos em falta com pedido de compra aberto;
+Identificação de produtos que precisam ser encomendados;
+Personalização das colunas e dos cenários de acompanhamento.
+O módulo permite que a empresa acompanhe não apenas a venda, mas também o cumprimento da entrega.
+https://ajuda.alterdata.com.br/sat/controle-de-entrega-e-expedicao-273286769.html
+https://ajuda.alterdata.com.br/shop/estoque-aba-do-shop/controle-de-entrega-e-expedicao/configurar-controle-de-entrega-e-expedicao
+
+4. Cotação de preços com geração de pedidos de compra
+A Cotação do WShop não apenas registra preços de fornecedores. Ela compara as condições comerciais e pode transformar o resultado da cotação em pedidos de compra.
+O processo permite:
+Selecionar produtos individualmente, por grupo, família, fornecedor ou sugestão de compra;
+Informar quantidade desejada, preço-alvo, prazo de pagamento e prazo de entrega;
+Comparar preços de vários fornecedores;
+Identificar o melhor preço por item;
+Considerar prazos de pagamento e entrega;
+Enviar a cotação ao fornecedor por arquivo Excel ou e-mail;
+Importar os dados retornados pelo fornecedor;
+Gerar pedidos de compra a partir da cotação;
+Levar o prazo para o financeiro e criar títulos conforme a condição de pagamento.
+Esse fluxo conecta cotação, compras e financeiro dentro do próprio WShop.
+https://ajuda.alterdata.com.br/sat/cotacao-de-precos-281772116.html
+https://ajuda.alterdata.com.br/shop/compras-aba-do-shop/cotacao-do-shop/dados-da-cotacao
+
+5. Reajuste de preços por fórmula e lote programado
+O WShop permite criar fórmulas para reajustar preços com base em variáveis do próprio produto, em vez de alterar item por item.
+As fórmulas podem utilizar informações como:
+Preço de custo;
+Custo de reposição;
+Preço sugerido;
+Preço praticado;
+Lucro;
+ICMS;
+IPI;
+PIS;
+COFINS;
+Substituição tributária.
+Também é possível:
+Aplicar o reajuste por filtros;
+Definir data e hora para geração do lote;
+Programar a volta ao preço anterior;
+Reajustar somente os produtos que sofreram alteração;
+Aplicar fórmulas a grupos de produtos;
+Gerar lotes para posterior execução;
+Integrar o lote ao AlterAgente.
+Exemplo de aplicação: programar uma alteração de preços para entrar em vigor no início do mês ou de uma campanha promocional, com retorno automático ao preço anterior.
+ https://ajuda.alterdata.com.br/shop/produtos-e-servicos/precos/reajuste-de-precos/reajuste-por-formula
+https://ajuda.alterdata.com.br/shop/produtos-e-servicos/precos/reajuste-de-precos/manutencao-de-precos-de-produtos-do-shop
+Resumo dos diferenciais
+Função
+Principal benefício
+AlterAgente
+Automatiza rotinas diárias e mensais
+Conferência de Expedição
+Evita erros na separação dos pedidos
+Controle de Entrega
+Organiza o processo até a entrega ao cliente
+Cotação de Preços
+Conecta fornecedores, compras e financeiro
+Reajuste por Fórmula
+Automatiza alterações complexas de preços
+
+Essas funções representam melhor o diferencial do WShop como retaguarda de uma operação comercial, indo além de cadastro, vendas e relatórios básicos.
+
+

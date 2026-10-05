@@ -1,0 +1,1389 @@
+{
+ "destaques": [
+  {
+   "titulo": "Temos um novo Centro de Aprendizagem!",
+   "processo": [],
+   "links": [
+    {
+     "url": "https://novoajuda.alterdata.com.br",
+     "texto": "' +\n 'Acessar novo ambiente \\u2192' +\n '"
+    },
+    {
+     "url": "https://ajuda.alterdata.com.br/suporteexpress",
+     "texto": "Centro de Aprendizagem"
+    },
+    {
+     "url": "https://ajuda.alterdata.com.br/shopprincipal",
+     "texto": "Shop"
+    }
+   ],
+   "texto": "' +\n '' +\n 'Acesse agora e conhe\\u00E7a a nova experi\\u00EAncia!' +\n '\n' +\n '' +\n 'Acessar novo ambiente \\u2192' +\n '' +\n '' +\n 'Continuar no ambiente atual' +\n '' +\n '\n';\n\n document.body.appendChild(modal);\n})();\n\nfunction fecharModalNovo() {\n var modal = document.getElementById('modalNovoAmbienteGlobal');\n if (modal) modal.style.display = 'none';\n}\n\n \n \n \n \n \n\n \n \n \n \n \n \n\n \n\n \n \n\n \n \n \n \n \n \n\n \n \n \n \n \n Centro de Aprendizagem\n \n Shop\n \n Novidades das Versões do Shop\n\n 6.1514\n \n \n \n \n \n \n \n \n \n \n \n Conheça todas as novidades e ajustes nesta versão!\n\nDisponível em 5 de ago. de 2026\n\nAqui você acompanha todas as alterações na versão 6.1514 do Shop/IShop.\nObservação\n \nSe você ainda estiver usando uma versão anterior, não se preocupe, em breve você receberá um aviso de atualização. \n\nNossa equipe de suporte está trabalhando para deixar tudo pronto antes de disponibilizar essa nova versão para você. Chamamos essa etapa de fase de homologação.\n O que é fase de homologação? \n\nNa fase de homologação, estamos realizando testes e verificando se tudo está funcionando corretamente.\nQueremos garantir que a nova versão seja segura, fácil de usar e atenda às suas necessidades. Assim, quando estiver pronta, você poderá aproveitar ao máximo todas as melhorias que ela trará.\nFique tranquilo, estamos cuidando de tudo para garantir uma experiência ótima para você!\n\n \n\n \n\n \n\n \n \n \n \n\n \n\n \n \n Se ligue nos destaques desta versão: \n\n \n\n \n Saiba tudo que muda a partir desta versão: \n\nOutras Novidades desta Versão!"
+  },
+  {
+   "titulo": "Agilidade e Modernidade na Nova Tela de Vendas",
+   "processo": [
+    "NOTAF-9593",
+    "de"
+   ],
+   "links": [
+    {
+     "url": "https://ajuda.alterdata.com.br/x/AQUdFQ",
+     "texto": "Lançar Vendas no Nota Fácil"
+    }
+   ],
+   "texto": "Processo: NOTAF-9593\n\nA nova tela de vendas do Nota Fácil chegou para transformar a sua experiência de faturamento! 🚀 Redesenhamos completamente a interface para tornar o seu dia a dia ainda mais simples, intuitivo e livre de burocracias.\nAgora, as informações de clientes, vendedores e recebimentos ganharam telas dedicadas e organizadas, eliminando a poluição visual. O resultado é um processo de venda muito mais limpo, claro e ágil, permitindo que você foque no que realmente importa: o atendimento ao seu cliente e o fechamento de novos negócios.\n\n🎯 Principais Benefícios:Interface Intuitiva: Navegação fluida entre as abas de Venda e Dados Adicionais.\n\nOrganização por Contexto: Telas específicas para identificação de Clientes, Vendedores e Pagamentos.\n\nAlta Performance com Atalhos: Opere todo o sistema sem tirar as mãos do teclado, garantindo velocidade no PDV.\n\nOnde encontro: A nova interface está disponível no módulo de Lançamento de Itens do sistema Nota Fácil. Consulte o tópicos Lançar Vendas no Nota Fácil para mais detalhes.\n\nVoltar ao topo!"
+  },
+  {
+   "titulo": "Integração iFood Mercado (Grocery) + Delivery do Shop",
+   "processo": [
+    "WSHOP-135810"
+   ],
+   "links": [],
+   "texto": "Processo: WSHOP-135810\n\nO Módulo Delivery do Shop agora está 100% integrado ao iFood Mercado, automatizando o recebimento de pedidos de varejo diretamente no seu sistema para eliminar a digitação manual.\nO que muda na rotina?\nPrecisão por EAN: Identificação exata do produto pelo código de barras, evitando furos de estoque.\n\nSincronia com o Separador: O pedido só entra na sua tela de vendas após ser finalizado no App de Separação do iFood.\n\nConfiguração e Regras\nComo ativar: No Shop, acesse a aba Vendas ➔ Delivery ➔ Opções ➔ Integração\nFoco em Varejo (Grocery): Exclusivo para o segmento de mercearia e bens de consumo.\n\nSem Adicionais: O fluxo não contempla adicionais, ingredientes ou complementos de produtos.\n\nVoltar ao topo!"
+  },
+  {
+   "titulo": "Gestão Inteligente e Integração Estratégica com a Napp",
+   "processo": [
+    "136181",
+    "s"
+   ],
+   "links": [
+    {
+     "url": "https://novoajuda.atlassian.net/wiki/spaces/erp4me/pages/1932328989",
+     "texto": "Integrador Napp configurado"
+    }
+   ],
+   "texto": "Processo: 136181\n\nSua gestão acaba de ganhar um reforço de peso: a nova integração direta com a Napp via API. Agora, o fluxo de dados de Vendas, Produtos e Estoque acontece com máxima performance e segurança, garantindo que as informações do seu negócio estejam sempre sincronizadas e prontas para a estratégia.\n\nMais do que uma conexão, implementamos um serviço inteligente de validação que blinda sua operação. O sistema atua como um filtro rigoroso, corrigindo automaticamente inconformidades e eliminando divergências antes mesmo do envio.\n\nO resultado? Dados 100% limpos, processos automatizados e a tranquilidade de ter seu catálogo e financeiro em total conformidade com os padrões da Napp.\n\nQuais benefícios essa novidade agrega ao seu negócio?\nPrincipais Benefícios:\n💰 Fechamento Impecável: Validação automática de valores e descontos, garantindo consistência financeira total em cada venda.\n\n🛡️ Catálogo Inteligente: Proteção contra duplicidades e garantia de que todo produto vendido esteja 100% integrado ao seu estoque.\n\n🔄 Status Sincronizados: Tradução automática dos seus processos para o padrão Napp, mantendo a comunicação clara e padronizada.\n\n✅ Dados de Alta Qualidade: Filtros de segurança que eliminam informações incompletas, assegurando o rastreio completo da sua operação.\n\nOnde encontrar:\nA integração está disponível através do novo conector configurado como um serviço do Windows.\nRequisitos:\nConfiguração da API Storage da Napp.\n\nIntegrador Napp configurado.\n\nAtenção: Para garantir o sucesso da carga de dados, certifique-se de que todos os produtos possuam ID e EAN válidos e que as regras de cálculo de descontos estejam aplicadas corretamente conforme as diretrizes de conformidade da Napp.\n\nVoltar ao topo!"
+  },
+  {
+   "titulo": "Inventário com Data Retroativa",
+   "processo": [
+    "WSHOP-135320"
+   ],
+   "links": [],
+   "texto": "Processo: WSHOP-135320\n\nAgora você pode definir a data exata para a apuração do estoque diretamente na tela de inventário.\nHabilite o novo recurso nas Opções / Geral do módulo Inventário do Shop marcando a opção Habilitar inventário com data retroativa e utilize o seletor de data disponível no canto superior esquerdo da sua Grid (tela).\nAjuste e zere seu estoque com precisão histórica, garantindo que o cálculo reflita exatamente o dia escolhido, sem impactar os lançamentos do dia atual.\nGanhe total autonomia para corrigir o passado logístico com segurança e máxima fidelidade nos dados.\n \n\nVoltar ao topo!"
+  },
+  {
+   "titulo": "Conferência Cega Independente",
+   "processo": [
+    "WSHOP-135274"
+   ],
+   "links": [],
+   "texto": "Processo: WSHOP-135274\n\nAgora você pode abrir o módulo de Conferência Cega diretamente, sem a necessidade de manter o Shop aberto ou vinculado.\nEssa independência garante menos consumo de memória e maior agilidade, permitindo que você realize conferências em múltiplas lojas enquanto utiliza outros módulos simultaneamente.\n\nGanhe velocidade operacional e produtividade máxima para focar no que importa, sem esperas ou sobrecarga no seu computador.\n\nVoltar ao topo!"
+  },
+  {
+   "titulo": "Controle de Venda por Loja",
+   "processo": [
+    "WSHOP-136103"
+   ],
+   "links": [],
+   "texto": "Processo: WSHOP-136103\n\nAgora você pode restringir a venda de produtos específicos para uma loja determinada da sua rede de forma automatizada. \nAo tornar um item indisponível no IShop, ele é inativado instantaneamente na empresa de destino no WShop.\nBasta acessar o menu de Configurações / Rede de Lojas do sistema, localizar a opção Trabalhar com produtos diferenciados por Empresa. Isso permite que você oculte o item especificamente naquela unidade. (Cadastro de Produtos / tela Produtos por Empresa / coluna “Indisponível\")\n\nSe preferir, inative no IShop para aplicar a regra em todas as unidades de uma só vez.\nGanhe precisão na gestão do seu estoque e evite que produtos compostos ou insumos específicos sejam utilizados em unidades indevidas.\n \n\nVoltar ao topo!"
+  },
+  {
+   "titulo": "Sua Operação no Zé Delivery 100% Centralizada!",
+   "processo": [
+    "WSHOP-135797"
+   ],
+   "links": [],
+   "texto": "Processo: WSHOP-135797\n\nSe você possui depósito de bebidas ou restaurante e utiliza o Zé Delivery, prepare-se para uma rotina muito mais ágil! Agora, o módulo de Delivery do Shop integra com o aplicativo, centralizando seus pedidos diretamente na tela de gestão para que você não perca tempo alternando entre plataformas.\nCom essa novidade, o fluxo de trabalho ganha velocidade: os pedidos aparecem automaticamente, permitindo um controle preciso de status e valores. \n\n \n\nO sistema também foi otimizado para identificar diferentes tipos de descontos e permitir ajustes manuais, garantindo que sua tabela de vendas esteja sempre correta e livre de inconformidades financeiras.\n\nQuais benefícios essa novidade agrega na gestão dos pedidos dos seus clientes?\nPrincipais Benefícios:\n📦 Centralização: Receba e gerencie pedidos do Zé Delivery diretamente no seu módulo de Delivery, sem complicação.\n\n⚙️ Flexibilidade: Permite a edição manual de pedidos para garantir que os valores e itens estejam sempre em conformidade com o que foi negociado no gestor do parceiro.\n\n🧠 Gestão de Descontos: Inteligência nativa para interpretar descontos aplicados pela plataforma ou pelo próprio estabelecimento, evitando divergências financeiras.\n\n🎨 Identificação Visual: Novos ícones nas grades e telas de detalhes para identificar rapidamente a origem de cada pedido.\n\nOnde acontece:\nA integração pode ser configurada no Shop [aba Vendas / Delivery / Opções] e visualizada no módulo de Delivery, especificamente no Shop [aba Vendas / Delivery] na visão principal de pedidos.\n⚠️ Aviso de Sincronia: A integração de estoque entre o sistema e o Zé Delivery ainda não é automática, sendo necessário realizar o controle manual das disponibilidades de produtos. Além disso, lembre-se de validar as alterações de status tanto pelo gestor do parceiro quanto pelo módulo de Delivery do Shop para garantir a perfeita sincronia da sua operação.\n\nVoltar ao topo!"
+  },
+  {
+   "titulo": "Nota Fácil: Produção Automática de Itens Compostos",
+   "processo": [
+    "NOTAF-9976",
+    "s",
+    "de"
+   ],
+   "links": [
+    {
+     "url": "https://ajuda.alterdata.com.br/shop/vendas-aba-do-shop/nota-facil-shop/producao-automatica-de-itens-compostos-no-nota-facil",
+     "texto": "Produção Automática de Itens Compostos no Nota Fácil"
+    }
+   ],
+   "texto": "Processo: NOTAF-9976\n\nMais agilidade no seu dia a dia! Agora, ao vender um produto composto, o Nota Fácil cuida da produção e da baixa dos seus insumos de forma totalmente automatizada.\nSem que você precise realizar intervenções manuais, o sistema processa a composição e atualiza seu estoque em momentos estratégicos: diretamente no encerramento do seu caixa ou assim que você abrir o módulo no dia seguinte. Com isso, você ganha mais tempo para focar no seu negócio e elimina tarefas repetitivas da sua rotina.\n\nO que sua operação e estoque ganham essa produção automática?\nPrincipais Benefícios:\n📦 Estoque sempre em dia: A baixa dos insumos ocorre automaticamente após a venda do produto final.\n\n⚙️ Processamento Inteligente: O sistema aproveita os momentos de fechamento ou abertura para organizar os dados sem travar sua operação.\n\n🛡️ Redução de Falhas: Menos processos manuais significam um controle de inventário muito mais preciso.\n\nAtenção: Uma vez que o produto é inserido no processo de produção automática, a ação não poderá ser desfeita. Certifique-se de que as composições dos seus produtos estão configuradas corretamente.\n\nPara saber como utilizar o recurso, verifique o tópico Produção Automática de Itens Compostos no Nota Fácil.\n\nVoltar ao topo!"
+  },
+  {
+   "titulo": "Seus orçamentos em PDF direto para o WhatsApp do cliente!",
+   "processo": [
+    "WSHOP-109270",
+    "de"
+   ],
+   "links": [],
+   "texto": "Processo: WSHOP-109270\n\nA partir de agora, você pode enviar o orçamento em formato PDF de forma 100% direta e automatizada. Realizamos a integração do sistema com o Karoo Bot, uma funcionalidade inteligente que permite o disparo do documento em PDF acompanhado de uma mensagem personalizada, eliminando de vez a necessidade de abrir o WhatsApp Web no navegador para concluir a sua venda.\nEssa evolução foi desenhada para transformar a sua rotina comercial. Antes, o envio de propostas limitava-se ao formato de texto simples, o que exigia retrabalho e formatações manuais. Com o novo recurso integrado à tela do módulo Orçamento, sua empresa ganha em produtividade, agiliza o tempo de resposta e transmite muito mais profissionalismo ao cliente final, que recebe uma proposta elegante e estruturada instantaneamente. \n\nPrincipais Benefícios\nAgilidade Operacional: Esqueça o processo de baixar o arquivo e abrir o navegador. O envio é feito em poucos cliques.\n\nAparência Profissional: Apresente suas propostas em um documento PDF limpo, organizado e com a identidade visual da sua empresa.\n\nComunicação Customizada: Defina a mensagem de apresentação que acompanha o arquivo de acordo com a necessidade do seu cliente.\n\n💡 Como utilizar: Contate nosso setor comercial para ativar o recurso! Acesse o Shop aba Vendas / Orçamento, selecione o orçamento desejado e escolha a opção de envio via Karoo Bot. Personalize a mensagem e pronto: seu cliente receberá o PDF direto no celular!\n\nVoltar ao topo!"
+  },
+  {
+   "titulo": "Total Conformidade com Novo CNPJ Alfanumérico",
+   "processo": [
+    "WSHOP",
+    "s"
+   ],
+   "links": [],
+   "texto": "Processo: WSHOP 119237\n\nSua solução Alterdata já está preparada para a Instrução Normativa RFB Nº 2.229/2024. Implementamos o suporte ao CNPJ Alfanumérico, uma evolução essencial que permite ao seu negócio processar identificadores que mesclam letras e números, assegurando a continuidade das operações fiscais sem qualquer interrupção.\nNa prática, otimizamos as telas de cadastro e os esquemas de validação para aceitar o formato atualizado.\n\nEssa melhoria elimina o risco de inconformidades no registro de parceiros e garante que sua empresa esteja plenamente alinhada às exigências da Receita Federal, mantendo a integridade e a validade jurídica das informações em sua grade de dados.\nOnde acontece: Em todos os campos de identificação de pessoa jurídica e processos de validação do sistema.\n\nPrincipais Benefícios: Segurança regulatória imediata, banco de dados modernizado e agilidade no registro de novos clientes.\n\nSaiba Mais: A adaptação é automática nos campos de preenchimento, dispensando ajustes manuais complexos em sua visão de cadastros.\n\nVoltar ao topo!"
+  },
+  {
+   "titulo": "Perfis de Usuários no Shop",
+   "processo": [
+    "WSHOP-83833"
+   ],
+   "links": [
+    {
+     "url": "https://ajuda.alterdata.com.br/x/9YjoF",
+     "texto": "Cadastro de Usuários - Shop"
+    }
+   ],
+   "texto": "Processo: WSHOP-83833\n\nCadastrar novos colaboradores acaba de se tornar uma tarefa muito mais simples e rápida. Com a chegada do recurso de Perfil de Usuário, você elimina a necessidade de configurar permissões individualmente, otimizando o tempo de gestão e garantindo a padronização dos acessos em sua empresa.\nA funcionalidade permite criar modelos de acesso pré-definidos de acordo com as funções da sua equipe. Na prática, ao realizar um novo cadastro, basta selecionar o perfil correspondente para que todas as liberações sejam aplicadas instantaneamente.\n\nEssa evolução proporciona menos cliques, maior segurança contra acessos indevidos e uma produtividade muito superior na rotina administrativa.\nOnde acontece: No Shop, acesse Configurações e Manutenção > Usuários > Perfis. Também é possível acessar pelo Menu Principal, no canto superior esquerdo, em Usuários.\n\nPrincipais Benefícios: Padronização de acessos, economia de tempo na configuração e redução de falhas humanas.\n\nPor que usar: Para garantir que cada usuário tenha exatamente as permissões necessárias de forma automática, sem a necessidade de revisões manuais exaustivas.\n\nPara saber os requisitos, como utilizar, regras de negócio referente a essa novidade do Shop, consulte o tópico Cadastro de Usuários - Shop.\n\nVoltar ao topo!"
+  },
+  {
+   "titulo": "Mais Controle, Margem e Conformidade Tributária!",
+   "processo": [
+    "WSHOP-138330",
+    "WSHOP-137299",
+    "WSHOP-136527"
+   ],
+   "links": [
+    {
+     "url": "https://ajuda.alterdata.com.br/x/6gdsFQ",
+     "texto": "Nota de Perda em Estoque no Shop"
+    }
+   ],
+   "texto": "💰 Valor Mínimo de Parcela: Margem protegida a cada venda!Processo: WSHOP-138330 \n\nSua gestão de cartão de crédito ficou ainda mais inteligente com a nova regra de valor mínimo por parcela integrada direto ao seu PDV e checkout.\nAcesse as configurações de pagamento e defina os limites mínimos para que o sistema ajuste o parcelamento de forma automática.\nCom limites automatizados e bloqueios estratégicos, você garante a proteção da sua margem de lucro e evita custos desnecessários em vendas fracionadas.\nChega de perder dinheiro com parcelas irrisórias: passe a ter controle absoluto das suas condições de pagamento em tempo real.\n\n💵 Cashback no Orçamento: Mais poder de negociação!Processo: WSHOP-137299\n\nAgora o saldo de cashback do seu cliente é exibido automaticamente na tela de criação de orçamentos, integrando fidelização e vendas no mesmo fluxo.\nBasta selecionar o cliente para visualizar instantaneamente o valor disponível e oferecer o desconto na hora de fechar a proposta.\nCom essa informação visual e ágil, sua equipe ganha um argumento decisivo de vendas e acelera a conversão de novos orçamentos.\nAntes o saldo do cliente passava despercebido; agora você impulsiona o faturamento oferecendo a melhor experiência de compra.\n\n📦 Perda em Estoque (Reforma Tributação): Adequação fiscal e estorno automático!Processo: WSHOP-136527\n\nSua operação fiscal ganha um novo recurso na Operação de Saída para atender com total segurança às recentes exigências da Reforma Tributária.\nAcesse o Movimento de Estoque, selecione a nota de débito por perda e vincule a NF-e de origem em poucos cliques.\nCom o cálculo automático e proporcional de IBS e CBS, você garante um processo sem erros de digitação e alinhado à legislação.\nEsqueça o cálculo manual de tributos e os riscos fiscais: tenha agilidade, segurança e conformidade imediata no seu estoque.\n\n Consulte o tópico Nota de Perda em Estoque no Shop para saber mais! \n\nVoltar ao topo!"
+  },
+  {
+   "titulo": "Outras Novidades desta Versão!",
+   "processo": [
+    "de",
+    "s",
+    "Tipo"
+   ],
+   "links": [
+    {
+     "url": "https://docs.stiltsoft.com/tfac/dc-server/how-to-use-table-filter-macro-42239756.html",
+     "texto": "Documentation"
+    },
+    {
+     "url": "https://docs.stiltsoft.com/tfac/dc-server/release-notes-42241260.html",
+     "texto": "What's new"
+    },
+    {
+     "url": "https://survey.alchemer.com/s3/7010834/5a06fc05ce8b",
+     "texto": "Rate our app"
+    },
+    {
+     "url": "https://docs.stiltsoft.com/tfac/dc-server/how-to-use-table-filter-macro-42239756.html",
+     "texto": "Documentation"
+    },
+    {
+     "url": "https://docs.stiltsoft.com/tfac/dc-server/release-notes-42241260.html",
+     "texto": "What's new"
+    },
+    {
+     "url": "https://survey.alchemer.com/s3/7010834/5a06fc05ce8b",
+     "texto": "Rate our app"
+    }
+   ],
+   "texto": "Aqui você acompanha todas as alterações na versão 6.1514 do Shop.\n\n*\nAdd filter\nReset all filters\nDisable all filters\nReset column sorting\nModify Settings\n\nCopy the filter URL\n\nExport to PDF\nExport to CSV\nExport to Word\nPrint\n\nDocumentation\nWhat's new\nRate our app\n\nShowing the first rows\nStart adding filters in the filter tools menu.\n\nThe filter is disabled at the moment.\n\nEnable all filters\n\nExport to PDF\nExport to CSV\nExport to Word\nPrint\n\nDocumentation\nWhat's new\nRate our app\n\nOops, it seems that you need to place a table or a macro generating a table within the Table Filter macro.\n\nThe table is being loaded. Please wait for a bit ...\n\nNúmero do Processo\nTipo⠀⠀⠀⠀⠀⠀⠀⠀⠀Descrição\nSistema\nWSHOP-138726\nMelhoriaEmbora as empresas do Simples Nacional (mesmo com excesso de sublimite) não estejam obrigadas ao IBS/CBS em 2026, sabemos que muitas já querem se antecipar à Reforma Tributária. \nLiberamos o campo de Classificação Tributária IBS/CBS nas telas de Cadastro de Produtos (Padrão, Simples e Spice). \nPara utilizá-lo, basta ativar a opção \"Habilitar Reforma Tributária para Empresas do Simples\" nas Configurações do Sistema.\n\nImportante: esta informação é exclusiva para fins de cadastro. O comportamento e cálculos nas vendas de produtos ainda aguardam definições da legislação.AltShop_Configuracoes.exe,\n0184213921ErroTentou gerar uma NF-e e o sistema travou dizendo que a tributação foi alterada? Já resolvemos isso e agora suas notas são geradas direto, sem avisos indevidos. Faturamento liberado! 💸AltShop_Lib.bpl, IShop.exe, WShop.exe, WShopSE.exe\n0184364031ErroSabe quando a nota saía com a forma de pagamento trocada? Resolvemos! Agora, a descrição em tela bate perfeitamente com o que você cadastrou. Faturamento sem sustos!AltShop_Lib.bpl, IShop.exe, WShop.exe, WShopSE.exe\n0184420088ErroSuas emissões de NF-e são rejeitadas pela SEFAZ por causa de pontos ou caracteres especiais no campo do NCM?\nImplementamos uma trava de segurança e sanitização automática no cadastro de produtos. A partir de agora, o sistema remove automaticamente quaisquer pontos, traços ou espaços no campo do NCM, salvando e transmitindo exclusivamente os dígitos numéricos exigidos pelo fisco.AltShopProc_CadastroProdutos.exe\n0184475190ErroO percentual estava sendo somado como valor no total? Já realizamos o ajuste para que não some o percentual da variação no total.AltShopProc_EvolucaoVendas.exe\n0183842071ErroAjuste interno para fazer devolução de compra com os mesmos valores do itens.altshopproc_devolucao.exe\n0184085541ErroEstive verificando com a programação. Depois que o cliente altera e sa"
+  }
+ ],
+ "processos": [
+  {
+   "processo": "WSHOP-138726",
+   "tipo": "Melhoria",
+   "descricao": "Embora as empresas do Simples Nacional (mesmo com excesso de sublimite) não estejam obrigadas ao IBS/CBS em 2026, sabemos que muitas já querem se antecipar à Reforma Tributária. \nLiberamos o campo de Classificação Tributária IBS/CBS nas telas de Cadastro de Produtos (Padrão, Simples e Spice). \nPara utilizá-lo, basta ativar a opção \"Habilitar Reforma Tributária para Empresas do Simples\" nas Configurações do Sistema.\n\nImportante: esta informação é exclusiva para fins de cadastro. O comportamento e cálculos nas vendas de produtos ainda aguardam definições da legislação.",
+   "sistema": "AltShop_Configuracoes.exe,"
+  },
+  {
+   "processo": "0184213921",
+   "tipo": "Erro",
+   "descricao": "Tentou gerar uma NF-e e o sistema travou dizendo que a tributação foi alterada? Já resolvemos isso e agora suas notas são geradas direto, sem avisos indevidos. Faturamento liberado! 💸",
+   "sistema": "AltShop_Lib.bpl, IShop.exe, WShop.exe, WShopSE.exe"
+  },
+  {
+   "processo": "0184364031",
+   "tipo": "Erro",
+   "descricao": "Sabe quando a nota saía com a forma de pagamento trocada? Resolvemos! Agora, a descrição em tela bate perfeitamente com o que você cadastrou. Faturamento sem sustos!",
+   "sistema": "AltShop_Lib.bpl, IShop.exe, WShop.exe, WShopSE.exe"
+  },
+  {
+   "processo": "0184420088",
+   "tipo": "Erro",
+   "descricao": "Suas emissões de NF-e são rejeitadas pela SEFAZ por causa de pontos ou caracteres especiais no campo do NCM?\nImplementamos uma trava de segurança e sanitização automática no cadastro de produtos. A partir de agora, o sistema remove automaticamente quaisquer pontos, traços ou espaços no campo do NCM, salvando e transmitindo exclusivamente os dígitos numéricos exigidos pelo fisco.",
+   "sistema": "AltShopProc_CadastroProdutos.exe"
+  },
+  {
+   "processo": "0184475190",
+   "tipo": "Erro",
+   "descricao": "O percentual estava sendo somado como valor no total? Já realizamos o ajuste para que não some o percentual da variação no total.",
+   "sistema": "AltShopProc_EvolucaoVendas.exe"
+  },
+  {
+   "processo": "0183842071",
+   "tipo": "Erro",
+   "descricao": "Ajuste interno para fazer devolução de compra com os mesmos valores do itens.",
+   "sistema": "altshopproc_devolucao.exe"
+  },
+  {
+   "processo": "0184085541",
+   "tipo": "Erro",
+   "descricao": "Estive verificando com a programação. Depois que o cliente altera e salva o cenário, ao abrir novamente não veio a alteração que ele fez porque embora ele tenha salvado o cenário, não deixou carregado o cenário alterado.\nResumindo:\nDepois que salvar a alteração, ele precisa obrigatoriamente carregar o cenário que deseja que venha carregado como padrão.",
+   "sistema": ""
+  },
+  {
+   "processo": "0184864757",
+   "tipo": "Erro",
+   "descricao": "Estava caindo na tela de validação de calculo de ICMS na edição do orçamento.? Já realizamos o ajuste, agora caso estiver tudo configurado corretamente, não irá cair na validação de cálculo de ICMS na edição dos orçamentos.",
+   "sistema": "WORC_2005.exe"
+  },
+  {
+   "processo": "0183556544",
+   "tipo": "Erro",
+   "descricao": "O sistema apresentava travamentos ou lentidão excessiva ao tentar desfazer as conciliações bancárias no Cash?\nProcessamento fluido e livre de travamentos! Otimizamos a rotina de reversão de conciliações no módulo financeiro. A partir de agora, o sistema processa o cancelamento do vínculo com o extrato de forma rápida e segura.",
+   "sistema": "wcash.exe"
+  },
+  {
+   "processo": "0184816681",
+   "tipo": "Erro",
+   "descricao": "O sistema estava apresentando lentidão, e até mesmo as vezes algum erro? Os módulos AltShopProc_Cclasstrib.exe e AltShopProc_AjustarCamposFiscais.exe só serão executados automaticamente na abertura se a base tiver menos de 10000 produtos na tabela produto.",
+   "sistema": "IShop.exe, WShop.exe"
+  },
+  {
+   "processo": "0184660844",
+   "tipo": "Erro",
+   "descricao": "Não estava conseguindo acertar o estoque quando o custo possuia 4 casas decimais? Já realizamos o ajuste para que seja permitido efetuar o ajuste.",
+   "sistema": "AltShopProc_CadastroProdutos.exe"
+  },
+  {
+   "processo": "0184676153",
+   "tipo": "Erro",
+   "descricao": "Enfrentando falhas visuais onde os dados do veículo sumiam na hora de imprimir o manifesto de transporte?\nCorreção na exibição no DAMDFE. Sincronizamos o mapeamento das tags do XML com o relatório de impressão do MDF-e. O problema que omitia as informações do veículo foi completamente resolvido, permitindo que sua expedição imprima os documentos corretos instantaneamente e libere a frota para a estrada sem atrasos.",
+   "sistema": "AltShopProc_GerenciadorMDFe.exe"
+  },
+  {
+   "processo": "0184629630",
+   "tipo": "Erro",
+   "descricao": "Estava ocorrendo erro no integrador? Já realizamos o ajuste para que não ocorra mais erro.",
+   "sistema": "AltShopProc_IntegradorShopViewers.jar"
+  },
+  {
+   "processo": "0184436539",
+   "tipo": "Erro",
+   "descricao": "Correção no fluxo de retorno da NFS-e. O sistema atualiza o status da nota corretamente assim que ela é autorizada.",
+   "sistema": "AltShop_Lib.bpl"
+  },
+  {
+   "processo": "0184595719",
+   "tipo": "Erro",
+   "descricao": "Enfrentando falhas no Boleto Express onde o título some da tela após a emissão ou apresenta erros inesperados?\nEmissão de boletos estável e sem sustos! Identificamos e corrigimos o comportamento na rotina de geração do Boleto Express.",
+   "sistema": "AltShop_Lib.bpl"
+  },
+  {
+   "processo": "0184734216",
+   "tipo": "Erro",
+   "descricao": "Suas remessas de boletos do Banco Safra estão sendo rejeitadas devido a inconsistências nos dados da agência?\nSincronia perfeita com o Banco Safra! Ajustamos a rotina de exportação e a estrutura de layout do arquivo de remessa. Com essa melhoria, garantimos que os dados da agência bancária sejam gerados e validados exatamente no padrão exigido pelo Safra.",
+   "sistema": "AltShop_Lib.bpl"
+  },
+  {
+   "processo": "0184708336",
+   "tipo": "Erro",
+   "descricao": "Estava sendo exibido os agendamentos duplicados? Já acertamos a exibição duplicada dos agendamentos iniciados nas horas cheias (10:00 por exemplo).",
+   "sistema": "AltShop_Lib.bpl, IAgendaAdmin.exe, WAgendaAdmin.exe"
+  },
+  {
+   "processo": "0184714997",
+   "tipo": "Erro",
+   "descricao": "Não estava atualizando o custo da mercadoria no aceite da transferência? Foi protegida a gravação do documento de entrada da transferência para que utilize corretamente a configuração de atualização de custo da operação de entrada utilizada no documento.",
+   "sistema": "IShop.exe, WShop.exe, WShopSE.exe"
+  },
+  {
+   "processo": "NOTAF-10085",
+   "tipo": "Erro",
+   "descricao": "Agora, ao emitir uma NF-e após uma venda com transação feita no TEF SCOPE, o sistema puxa automaticamente o código de autorização da transação. Com isso, você economiza tempo e elimina o risco de erros de digitação que travam a emissão da sua nota.",
+   "sistema": "altshop_lib.bpl, altshopproc_movestoqueotimizado.exe"
+  },
+  {
+   "processo": "0184638962",
+   "tipo": "Erro",
+   "descricao": "Estava tendo problemas para localizar produtos na Ordem de Serviço? Já realizamos o ajuste para que os produtos seja localizados e incluídos corretamente.",
+   "sistema": "AltShopOrdemServicoEntrada.exe"
+  },
+  {
+   "processo": "0184604455",
+   "tipo": "Erro",
+   "descricao": "Ajustada a emissão de NFC-e no Nota Fácil para não exigir a validação de CPF/CNPJ em branco quando a venda for realizada utilizando o Cliente Padrão da loja.",
+   "sistema": "altshop_interface_layouts.dll"
+  },
+  {
+   "processo": "0184205842",
+   "tipo": "Erro",
+   "descricao": "Agora, ao realizar uma devolução, você pode optar por considerar o valor total do documento ou o valor líquido do título (caso ele já esteja baixado) como limite para o reembolso do cliente.",
+   "sistema": "altshopproc_movestoqueotimizado.exe"
+  },
+  {
+   "processo": "0184352817",
+   "tipo": "Erro",
+   "descricao": "Pensando em melhorar o seu dia a dia e evitar dúvidas na hora da venda, reformulamos a mensagem de alerta quando um produto possui um CFOP incompatível com a NFC-e.",
+   "sistema": "altshop_interface_layouts.dll"
+  },
+  {
+   "processo": "0184406303",
+   "tipo": "Erro",
+   "descricao": "Preocupado com o risco de cadastrar títulos com o mesmo número acidentalmente e bagunçar o seu financeiro?\nDuplicidade sob controle e com rastro de auditoria! Implementamos um novo alerta de segurança no cadastro de títulos. Agora, se você inserir um número que já existe, o sistema avisará imediatamente, permitindo que você escolha entre Gravar ou Cancelar a operação. Caso decida prosseguir e salvar o título, a ação será registrada automaticamente na Auditoria do Sistema para garantir total rastreabilidade e segurança para a sua gestão.",
+   "sistema": "altshopproc_financeiro.exe"
+  },
+  {
+   "processo": "0184663249",
+   "tipo": "Erro",
+   "descricao": "Enfrentando rejeições fiscais ao tentar emitir MDF-e com a inclusão de vale-pedágio?\nEmissão de MDF-e sem travamentos na SEFAZ! Corrigimos a formatação da tag <vValePed> no arquivo XML gerado pelo sistema. Ajustamos a conversão de valores para substituir a vírgula pelo ponto decimal, alinhando o documento exatamente com o padrão exigido pela Receita Federal.",
+   "sistema": "AltShop_Lib.bpl"
+  },
+  {
+   "processo": "0184510704",
+   "tipo": "Erro",
+   "descricao": "Sentia falta do percentual de comissão ao extrair o relatório de grupos de produtos no Shop?\nExibição de alíquota integrada. Ajustamos o layout de visualização e impressão para mostrar todas as alíquotas e outros dados cadastradas.",
+   "sistema": "IShop.exe, WShop.exe, WShopSE.exe"
+  },
+  {
+   "processo": "0184680627",
+   "tipo": "Erro",
+   "descricao": "Seus boletos do Santander estão sendo rejeitados pelo banco ou apresentando divergências no \"Nosso Número\"?\nSincronia perfeita nas cobranças do Santander! Ajustamos a rotina de validação e geração de arquivos para o banco Santander. A partir de agora, o sistema garante que o \"Nosso Número\" impresso no boleto seja exatamente o mesmo exportado no arquivo de remessa.",
+   "sistema": "AltShop_Lib.bpl, AltShopImpressaoCarne.exe"
+  },
+  {
+   "processo": "0184476565",
+   "tipo": "Erro",
+   "descricao": "Não estava conseguindo editar clientes mesmo configurado para editar clientes de outras empresas? Já realizamos o ajuste para que o problema não ocorra.",
+   "sistema": "WSched.exe"
+  },
+  {
+   "processo": "0184665942",
+   "tipo": "Erro",
+   "descricao": "Enfrentando problemas na conciliação bancária ou dificuldades para estornar lançamentos no WCash?\nControle total sobre o seu extrato! Estabilizamos a rotina de conciliação bancária do WCash e corrigimos o recurso \"Desfazer conciliação\". Agora, ao reverter um processo, os movimentos originais são recuperados perfeitamente pelo sistema para que você possa ajustá-los.",
+   "sistema": "wcash.exe"
+  },
+  {
+   "processo": "0184607960",
+   "tipo": "Erro",
+   "descricao": "Não estava sendo impresso o endereço informado no orçamento, quando utilizava algum endereço alternativo do cliente? Jà realizamos o ajuste, agora irá imprimir/visualizar corretamente.",
+   "sistema": "AltShopProc_Controleromaneio.exe"
+  },
+  {
+   "processo": "0184651451",
+   "tipo": "Erro",
+   "descricao": "Estava ocorrendo logs de erro no integrador do 4keep? Fizemos um ajuste para que não ocorra mais o erro.",
+   "sistema": "AltShopProc_Sincronizador4Keep.exe"
+  },
+  {
+   "processo": "0184617877",
+   "tipo": "Erro",
+   "descricao": "Estava com problemas no envio de produtos de grade para o Muven? Já realizamos o ajuste para que seja enviado corretamente.",
+   "sistema": "AltShopProc_IntegradorMuven.jar"
+  },
+  {
+   "processo": "0183765498",
+   "tipo": "Erro",
+   "descricao": "Estava sendo alterado a composição do preço ao alterar o tipo de tributação de IPI? A partir de agora, ao alterar algum tributo, se a configuração do custo de reposição estiver diferente do padrão, será questionado se deseja alterar as configurações do custo de reposição.",
+   "sistema": "AltShopProc_CadastroEmpresas.exe"
+  },
+  {
+   "processo": "0184602625",
+   "tipo": "Erro",
+   "descricao": "A Razão Social sumia do DANFE sempre que você marcava a opção de gerar o endereço de entrega?\nImpressão de entregas 100% corrigida! Ajustamos o comportamento do layout do DANFE e XML de NF-e. Agora, ao ativar a opção para exibir o endereço de entrega no DANFE, a Razão Social do destinatário permanece visível, clara e completa. Evite problemas com a fiscalização de trânsito e garanta a identificação perfeita das suas mercadorias.",
+   "sistema": "AltShop_Lib.bpl"
+  },
+  {
+   "processo": "WSHOP-135594",
+   "tipo": "Erro",
+   "descricao": "Ajuste na geração da nota de devolução parcial para manter a tributação regular (IBS/CBS) da nota de origem.",
+   "sistema": "altshopproc_devolucao.exe"
+  },
+  {
+   "processo": "0184040621",
+   "tipo": "Erro",
+   "descricao": "Ajustada a edição de documentos para manter os valores originais ao serem carregados; contudo, caso haja qualquer alteração de valor, inclusão ou exclusão de itens, o documento será recalculado automaticamente.",
+   "sistema": "IShop.exe, WShop.exe, WShopSE.exe"
+  },
+  {
+   "processo": "WSHOP-137486",
+   "tipo": "Erro",
+   "descricao": "Estava com problemas no cadastro de cidades na importação de NFE? Já fizemos o acerto para o cadastramento da cidade pelo código do IBGE já que no xml o nome da cidade está diferente da tabela de municipios IBGE.",
+   "sistema": "AltShop_Lib.bpl, AltShop_NFe2.bpl, IShop.exe, WShop.exe, WShopSE.exe"
+  },
+  {
+   "processo": "WSHOP-137890",
+   "tipo": "Erro",
+   "descricao": "Não tinha opção de pular a primeira linha quando era o cabeçalho do arquivo? A partir do agora o módulo conta com uma nova configuração para ignorar ou não a primeria linha do arquivo.",
+   "sistema": "AltShopProc_ImportacaoProdutosExcel.exe"
+  },
+  {
+   "processo": "0184310527",
+   "tipo": "Erro",
+   "descricao": "Enfrentando erros de limite de caracteres ou numeração cortada ao gerar múltiplos títulos no financeiros?\nPadronização total na numeração de documentos! Alinhamos as regras de validação do módulo financeiro. Agora, a rotina de geração de múltiplos títulos aceita o tamanho máximo de até 20 caracteres igualando-se ao comportamento já existente no cadastro individual. Essa mudança garante total liberdade para o preenchimento de códigos extensos.",
+   "sistema": "altshopproc_financeiro.exe"
+  },
+  {
+   "processo": "0184054514",
+   "tipo": "Erro",
+   "descricao": "Estava sendo excluídos produtos da base de dados? Não conseguimos simular o problema, mas colocamos uma proteção que deve resolver esse problema.",
+   "sistema": "AltShopProc_CadastroProdutos.exe"
+  },
+  {
+   "processo": "0184457910",
+   "tipo": "Erro",
+   "descricao": "Notou que o preço de custo final aparecia zerado em algumas localizações dentro do cadastro de produtos?\nTotal precisão nos custos por localização! Corrigimos a sincronização de valores no cadastro de mercadorias. A partir de agora, o sistema garante que o preço de custo final seja calculado e exibido corretamente em cada localização.",
+   "sistema": "AltShop_Lib.bpl"
+  },
+  {
+   "processo": "0184450767",
+   "tipo": "Erro",
+   "descricao": "Precisão garantida no cadastro de produtos do Spice! 🎯\nSe você notou alguma oscilação na exibição das casas decimais dos seus preços, pode ficar tranquilo. Nossa equipe já realizou os ajustes necessários e agora todos os valores estão sendo exibidos com exatidão, respeitando perfeitamente as suas configurações em Opções.",
+   "sistema": "AltShopProc_CadastroProdutosSpice.exe"
+  },
+  {
+   "processo": "NOTAF-10037",
+   "tipo": "Erro",
+   "descricao": "Agora ficou mais rápido desfazer operações no sistema. Adicionamos o atalho Alt + A para abrir diretamente a tela de Cancelamento de Carta de Crédito dentro do Nota Fácil. Menos cliques, mais produtividade no seu caixa!",
+   "sistema": "altshop_lib.bpl, altshopproc_movestoqueotimizado.exe"
+  },
+  {
+   "processo": "0184232072",
+   "tipo": "Erro",
+   "descricao": "Problemas para extrair NF-es de entrada no Gerenciador XML?\nImportação corrigida e direcionada. Eliminamos as instabilidades que impediam a extração de notas fiscais de entrada. Não só isso, mas para deixar sua rotina ainda mais produtiva, habilitamos a extração de notas de entradas via Certificado Digital ou XML. Antes só era possível extrair entradas via Certificado Digital ou XML se a opção compras estivesse marcada no filtro.",
+   "sistema": "AltShopProcExtratorXML.exe"
+  },
+  {
+   "processo": "0184433624",
+   "tipo": "Erro",
+   "descricao": "Corrigido o comportamento da tela de seleção de tabela de preços ('Escolher no momento da venda'). Agora, o sistema valida corretamente a ação de repetição de preço para os demais itens da mesma venda e garante a abertura da tela ao iniciar uma nova venda posterior.",
+   "sistema": "altshopproc_movestoqueotimizado.exe"
+  },
+  {
+   "processo": "0183837399",
+   "tipo": "Erro",
+   "descricao": "Corrigimos um comportamento no tela de recebimento de crediário. Agora, ao aplicar um filtro de data junto com a seleção de clientes específicos, o sistema traz apenas os registros que atendem a ambos os critérios, garantindo a precisão dos dados exibidos.",
+   "sistema": "altshopproc_movestoqueotimizado.exe"
+  },
+  {
+   "processo": "0184170860",
+   "tipo": "Erro",
+   "descricao": "Se você é um emitente da UF 'BA' e precisa informar o mesmo CPF/CNPJ no destinatário e nos autorizados do XML, pode emitir a nota normalmente. O sistema não exibirá nenhum alerta de bloqueio.",
+   "sistema": "AltShop_NFe2.bpl"
+  },
+  {
+   "processo": "0184149974\n0184308832",
+   "tipo": "Erro",
+   "descricao": "Menos digitação, mais café! ☕\nCorrigimos o sumiço misterioso da conta Cash do funcionário na baixa de títulos no Financeiro! Agora o sistema puxa a informação num piscar de olhos, do jeitinho que tem que ser. Tudo funcionando perfeitamente para você fechar o caixa mais rápido!",
+   "sistema": "altshopproc_financeiro.exe"
+  },
+  {
+   "processo": "0183592164",
+   "tipo": "Erro",
+   "descricao": "Relatório de Documentos e Notas Fiscais Atualizado!\nSe você percebeu alguma instabilidade ao visualizar os valores no formato sintético, temos uma boa notícia: nossa equipe já realizou os ajustes necessários. O relatório está operando normalmente, com todos os dados e valores totalmente disponíveis para a sua gestão.",
+   "sistema": "AltShopRelDocumentos.exe"
+  },
+  {
+   "processo": "0184311762",
+   "tipo": "Erro",
+   "descricao": "Estava sendo informado que a importação foi concluída, mesmo sem concluir? Incluímos um log que vai mostrar a partir de agora se foi atualizado/cadastrado.",
+   "sistema": "AltShopProc_ImportacaoProdutosExcel.exe"
+  },
+  {
+   "processo": "0183966371",
+   "tipo": "Erro",
+   "descricao": "Melhoria nas permissões de envio de e-mail NF-e: Corrigimos uma brecha que permitia a alteração do e-mail do cliente/fornecedor na tela de emissão de notas. Com o novo ajuste, o sistema bloqueia essa alteração automática, garantindo que as regras de acesso do seu negócio sejam sempre respeitadas.",
+   "sistema": "AltShop_Lib.bpl"
+  },
+  {
+   "processo": "NOTAF-9388",
+   "tipo": "Erro",
+   "descricao": "Correção no cálculo de vendas com Frete e Múltiplos Preços: Corrigido o cálculo do valor total da venda ao aplicar frete em operações que utilizam a modalidade de múltiplos preços.",
+   "sistema": "altshopproc_movestoqueotimizado.exe"
+  },
+  {
+   "processo": "0184012223",
+   "tipo": "Erro",
+   "descricao": "Estava com problemas para extrair alguns arquivos xmls do sistema? Fizemos o ajuste para que os arquivos sejam extraídos corretamente.",
+   "sistema": "AltShopProcExtratorXML.exe"
+  },
+  {
+   "processo": "WSHOP-137523",
+   "tipo": "Erro",
+   "descricao": "Tudo certo com o envio de e-mails no Shop! Ajustamos a validação do token que estava apresentando instabilidade. Agora, a configuração está liberada e você já pode voltar a enviar e-mails para seus clientes normalmente.",
+   "sistema": "AltShop_Lib.bpl"
+  },
+  {
+   "processo": "0184307521",
+   "tipo": "Erro",
+   "descricao": "Problemas para acessar a ajuda dentro do cadastramento de contas do Cash? Já resolvemos isso! Corrigimos o link para que a ajuda abra normalmente e sem erros.",
+   "sistema": "wcash.exe"
+  },
+  {
+   "processo": "0183998984",
+   "tipo": "Erro",
+   "descricao": "Não estava sendo atualizado a quantidade do estoque na localização de produtos quando a tela ficava aberta? Incluímos uma nova opção \"atualização de estoque\", onde mesmo que não feche a tela, bastando fazer uma nova busca (Enter) o estoque será atualizado sem a necessidade de fechar a tela.",
+   "sistema": "AltShop_Lib.bpl"
+  },
+  {
+   "processo": "0184191535",
+   "tipo": "Erro",
+   "descricao": "Como manter o seus lançamentos no Cash livre de resíduos e lançamentos fantasmas?\nRefinamos as regras do sistema para que o cancelamento de baixas limpe o movimento do Cash instantaneamente. Sem duplicidade de valores, sem retrabalho de conferência e com a segurança de que o saldo exibido na tela reflete exatamente a realidade do seu caixa.",
+   "sistema": "altshopproc_financeiro.exe"
+  },
+  {
+   "processo": "0184267800",
+   "tipo": "Erro",
+   "descricao": "Estava com problemas na validação de estoque quanto importava arquivo com itens ou reaproveitava os itens de outro documento? Fizemos o ajuste na validação do estoque quando os itens forem incluídos no documento por importação de outro documento ou de txt.",
+   "sistema": "IShop.exe, WShop.exe, WShopSE.exe"
+  },
+  {
+   "processo": "0184256905",
+   "tipo": "Erro",
+   "descricao": "Estava ocorrendo bloqueio quando o fator de conversão era maior que 1, e posteriormente o estoque ficaria negativo? Realizamos o ajuste para que o problema não ocorra.",
+   "sistema": "AltShopProc_SolicitacaoTransferencia.exe"
+  },
+  {
+   "processo": "0184027001",
+   "tipo": "Erro",
+   "descricao": "Se você aplicar um desconto por tabela de preço e depois reduzir a quantidade do produto para um número fora da tabela, o Nota Fácil agora recalcula tudo automaticamente, trazendo o item de volta ao valor original.",
+   "sistema": "altshopproc_movestoqueotimizado.exe"
+  },
+  {
+   "processo": "0184391885",
+   "tipo": "Erro",
+   "descricao": "Estava com problemas na importação de produtos com e sem zeros a esquerda? Realizamos o ajuste para que seja importado corretamente.",
+   "sistema": "AltShopProc_ImportacaoProdutosExcel.exe"
+  },
+  {
+   "processo": "0184309100",
+   "tipo": "Erro",
+   "descricao": "Ajuste no reenvio de NFSe com dados do tomador, sem geração de novo RPS.",
+   "sistema": "AltShop_Lib.bpl"
+  },
+  {
+   "processo": "WSHOP-137587",
+   "tipo": "Erro",
+   "descricao": "Seus produtos importados por XML estão ficando com o código travado como \"SEM GTIN\"?\nIdentificação inteligente de produtos! Corrigimos o leitor de XML de NF-e no sistema. Agora, quando um item não possuir código de barras (EAN), o Shop ignora automaticamente a expressão padrão \"SEM GTIN\" e assume o próximo identificador válido disponível no arquivo (como o código interno do fornecedor). Isso mantém o seu cadastro de produtos perfeitamente organizado.",
+   "sistema": "AltShopProc_ImportacaoProdutosXML.exe"
+  },
+  {
+   "processo": "0184266705",
+   "tipo": "Erro",
+   "descricao": "Estava ocorrendo erro na visualização do romaneio? Já realizamos o ajuste para que não ocorra mais erro.",
+   "sistema": "AltShopProc_Controleromaneio.exe"
+  },
+  {
+   "processo": "0183756975",
+   "tipo": "Erro",
+   "descricao": "Estava com problemas na impressão de várias Nfes? Realizamos o ajuste para obter o caminho completo dos arquivos que serão impressos. Antes, o caminho vinha abreviado, o que não funciona em ambiente Nuvem.",
+   "sistema": "AltShop_NFe2.bpl"
+  },
+  {
+   "processo": "0183827047",
+   "tipo": "Erro",
+   "descricao": "Se você digitasse um novo nome direto no campo (em vez de usar a \"lupa\" de busca), em um título, o sistema mostrava o nome novo na tela, mas internamente continuava vinculado ao cadastro antigo. Isso causava erros em relatórios e históricos.",
+   "sistema": "altshopproc_financeiro.exe"
+  },
+  {
+   "processo": "0184173641",
+   "tipo": "Erro",
+   "descricao": "Estava com problemas nas variáveis das informações do serviço no ISHOP? Já realizamos o ajuste, agora está funcionando corretamente.",
+   "sistema": "AltShopRel_FichaDoProduto.exe"
+  },
+  {
+   "processo": "0183539743",
+   "tipo": "Erro",
+   "descricao": "Enfrentando divergências ou mensagens de erro ao realizar a Conferência Cega com duas formas de pagamento combinadas?\nSomatório exato e sem quebras fantasmas! Ajustamos o cálculo da Conferência Cega de Caixa para cenários de múltiplas moedas. Agora, ao somar valores de pagamentos distintos, o sistema consolida o valor total de maneira impecável e 100% livre de inconsistências.",
+   "sistema": "AltShopProc_ConferenciaCega.exe"
+  },
+  {
+   "processo": "0184328209",
+   "tipo": "Erro",
+   "descricao": "Ajuste na geração do XML para que a tag pRedBCST seja incluída apenas quando houver percentual de redução de base ST informado.",
+   "sistema": "AltShop_NFe2.bpl"
+  },
+  {
+   "processo": "0184260571",
+   "tipo": "Erro",
+   "descricao": "Percebeu que havia um erro ao sair da tela do módulo Conferência Cega?\nEncerramento limpo e sem sustos! Ajustamos a rotina de saída do módulo de Conferência Cega. Agora, quando você finaliza a contagem e fecha a tela, o sistema encerra o processo de forma totalmente suave e segura.",
+   "sistema": "AltShopProc_ConferenciaCega.exe"
+  },
+  {
+   "processo": "WSHOP-137402",
+   "tipo": "Erro",
+   "descricao": "Realizado alinhamento no botão característica do cliente no orçamento.",
+   "sistema": "WORC_2005.exe"
+  },
+  {
+   "processo": "0184245537",
+   "tipo": "Erro",
+   "descricao": "Enfrentando interrupções e o erro 412 ao enviar seus dados de vendas para a NAPP?\nSincronização contínua e sem engasgos! Ajustamos os parâmetros de comunicação com a API da NAPP para eliminar o erro 412 durante o envio das vendas. Agora, todas as suas vendas são transmitidas de forma limpa e automática.",
+   "sistema": "AltShopProc_IntegradorNapp.exe"
+  },
+  {
+   "processo": "0184336500",
+   "tipo": "Erro",
+   "descricao": "Atualização Scanntech no ar!\nCorrigimos os erros de permissão e acesso na abertura do sincronizador. Agora, a pasta LogScanntech é gerada automaticamente pelo sistema na inicialização, garantindo que sua integração rode perfeitamente do início ao fim. Rápido assim!",
+   "sistema": "AltShop_SincronizadorScanntech.exe"
+  },
+  {
+   "processo": "0184325516",
+   "tipo": "Erro",
+   "descricao": "Enfrentando dificuldades ou erros ao tentar mudar o sincronizador da Scanntech para o IShop?\nTransição sem barreiras! Ajustamos as rotinas de comunicação do sincronizador da Scanntech para garantir total compatibilidade com o IShop. Agora, você pode realizar a mudança de ambiente e ativar a sua integração de forma direta e sem travamentos, mantendo seus dados de vendas e promoções fluindo perfeitamente.",
+   "sistema": "AltShop_SincronizadorScanntech.exe"
+  },
+  {
+   "processo": "0184094549",
+   "tipo": "Erro",
+   "descricao": "Ajustada a emissão de NF-e para clientes Isentos de Inscrição Estadual. Permitindo a emissão quando houver itens com ICMS-ST ou ICMS-ST Retido.",
+   "sistema": "AltShop_NFe2.bpl"
+  },
+  {
+   "processo": "0183212018",
+   "tipo": "Erro",
+   "descricao": "Pessoal, a gente viu que quando a NFC-e era só de serviço, ela não estava salvando na tabela docitem_tiponota. Por causa disso, decidimos tirar a validação dessa tabela na hora de gerar o Sintegra.",
+   "sistema": "AltShop_Lib.bpl"
+  },
+  {
+   "processo": "0183796599",
+   "tipo": "Erro",
+   "descricao": "Estava sendo enviado as vendas realizadas com o \"cliente padrão\"? Realizamos um ajuste para que não seja enviado vendas feitas para \"cliente padrão\" configurado nas configurações do sistema.",
+   "sistema": "AltShopProc_IntegradorZoppy.exe"
+  },
+  {
+   "processo": "0184139435",
+   "tipo": "Erro",
+   "descricao": "Fizemos mais umas melhorias na tela e no processo de conciliação bancária.",
+   "sistema": "wcash.exe"
+  },
+  {
+   "processo": "0183599045",
+   "tipo": "Erro",
+   "descricao": "Quando você importa uma NF-e de compra com aproveitamento de crédito de ICMS, vamos gerar a alíquota, base e valor de aproveitamento no registro C197.",
+   "sistema": "AltShop_Lib.bpl"
+  },
+  {
+   "processo": "0184012157",
+   "tipo": "Erro",
+   "descricao": "Tudo em ordem com seus boletos Cresol na geração de arquivo remessa! Ajustamos o cálculo do dígito verificador do nosso número para garantir total integração com o banco.",
+   "sistema": "AltShop_Lib.bpl"
+  },
+  {
+   "processo": "0183784558",
+   "tipo": "Erro",
+   "descricao": "Ajuste na importação de planilha por excel, para gravar corretamente na tabela referente a produtos quando o produto for serviço ou não.\n\nCriada também a opção 'Servico' para informar na importação que determinado produto se trata de serviço.\nEsse campo Servico poderá ser atribuído à coluna clicando no título da grid e abrindo o pop-up com a lista de campos disponíveis para vínculo.\nO registro da planilha somente será visto como serviço se possuir o campo Servico vinculado com os valores Sim ou Não (ou de acordo com a tabela de Padrão de dados existente em Opções.",
+   "sistema": "AltShopProc_ImportacaoProdutosExcel.exe"
+  },
+  {
+   "processo": "0183839103",
+   "tipo": "Erro",
+   "descricao": "Ajuste na importação de planilha por excel, para gravar corretamente na tabela referente a produtos quando o produto for serviço ou não.\n\nCriada também a opção 'Servico' para informar na importação que determinado produto se trata de serviço.\nEsse campo Servico poderá ser atribuído à coluna clicando no título da grid e abrindo o pop-up com a lista de campos disponíveis para vínculo.\nO registro da planilha somente será visto como serviço se possuir o campo Servico vinculado com os valores Sim ou Não (ou de acordo com a tabela de Padrão de dados existente em Opções.",
+   "sistema": "AltShopProc_ImportacaoProdutosExcel.exe"
+  },
+  {
+   "processo": "0183960010",
+   "tipo": "Erro",
+   "descricao": "Como gerenciar suas produções de forma mais inteligente e direta?\nMenos ruído, mais execução. Atualizamos os filtros do módulo de Produção. Com a nova separação entre o que está pendente (\"Não produzidos\") e o panorama completo (\"Todos\"), você elimina distrações e foca na finalização das entregas. Uma interface mais limpa para uma gestão muito mais eficiente.",
+   "sistema": "AltShopProc_EntradaProducao.exe"
+  },
+  {
+   "processo": "0184012356",
+   "tipo": "Erro",
+   "descricao": "Ajustamos a gestão de produtos adicionais no Shop que não estava aparecendo dependendo da versão.\nA partir de agora, a inclusão e retirada de produtos adicionais na Manutenção de Produtos é uma funcionalidade padrão, independente da versão do seu Shop.\nO que mudou? Liberdade total para ajustar seu catálogo como preferir.",
+   "sistema": "AltShopProc_ManutencaoProdutos.exe"
+  },
+  {
+   "processo": "0183751798",
+   "tipo": "Erro",
+   "descricao": "Seu relatório de \"Preços Alterados\" estava exibindo produtos que, na verdade, não tiveram mudança de valor?\nRelatórios 100% limpos e confiáveis! Refinamos a lógica do módulo de Manutenção de Preços para que o sistema só registre uma alteração quando ela for efetivamente gravada. Agora, se você desistir de uma mudança ou fechar a tela sem salvar, o histórico permanece intacto, garantindo que sua auditoria de preços seja precisa e livre de \"dados fantasmas\".",
+   "sistema": "WShopSE.exe"
+  },
+  {
+   "processo": "0184114271",
+   "tipo": "Erro",
+   "descricao": "Quer que a Manutenção de Produtos tenha as mesmas regras de validação do Cadastro de produtos?\nSincronia perfeita entre os módulos. Corrigimos a limitação de caracteres para o código de benefício fiscal. Agora, você pode cadastrar códigos de 8 ou 10 dígitos diretamente pela Manutenção de Produtos, com a mesma flexibilidade e segurança que já possui no cadastro individual. Mais agilidade para atualizar sua base tributária em lote!",
+   "sistema": "AltShopProc_CadastroProdutos.exe, AltShopProc_ManutencaoProdutos.exe"
+  },
+  {
+   "processo": "0184143106",
+   "tipo": "Erro",
+   "descricao": "Ajuste na importação de produtos por planilha excel quando existir uma coluna com o título recid na planilha",
+   "sistema": "AltShopProc_ImportacaoProdutosExcel.exe"
+  },
+  {
+   "processo": "0183564731",
+   "tipo": "Erro",
+   "descricao": "Seu relatório de \"Preços Alterados\" estava exibindo produtos que, na verdade, não tiveram mudança de valor?\nRelatórios 100% limpos e confiáveis! Refinamos a lógica do módulo de Manutenção de Preços para que o sistema só registre uma alteração quando ela for efetivamente gravada. Agora, se você desistir de uma mudança ou fechar a tela sem salvar, o histórico permanece intacto, garantindo que sua auditoria de preços seja precisa e livre de \"dados fantasmas\".",
+   "sistema": "AltShopProc_ManutencaoPrecoProduto.exe"
+  },
+  {
+   "processo": "0184043762",
+   "tipo": "Erro",
+   "descricao": "Ajuste interno para exibir o modulo de manutenção de preços corretamente.",
+   "sistema": "WShopSE.exe"
+  },
+  {
+   "processo": "0184095176",
+   "tipo": "Erro",
+   "descricao": "Precisava alterar os preços, de custo, sugerido e praticado para um mesmo valor, e não estava conseguindo pois o módulo só disponibilizava alteração por %? Agora será possível, pois foi incluído a opção de aplicar um mesmo valor para todos os produtos selecionados.",
+   "sistema": "AltShopProc_ManutencaoPrecoProduto.exe"
+  },
+  {
+   "processo": "0183880348",
+   "tipo": "Erro",
+   "descricao": "Ajuste no layout de impressão do orçamento para exibir a inscrição estadual do cliente pessoa juridica.",
+   "sistema": "WORC_2005.exe"
+  },
+  {
+   "processo": "0184017514",
+   "tipo": "Erro",
+   "descricao": "Ajuste realizado para que a Ordem de Serviço permaneça com o status \"Normal\" caso ocorra um fechamento inesperado do Nota Fácil ou cancelamento durante a importação. Com isso, a OS fica disponível para novas tentativas de importação.",
+   "sistema": "altshopproc_movestoqueotimizado.exe"
+  },
+  {
+   "processo": "0183721848",
+   "tipo": "Erro",
+   "descricao": "Criação de mensagem na auditoria do sistema para informar quando não houver calculo de icms na produção automática do produto composto.",
+   "sistema": "AltShopProc_EntradaProducao.exe"
+  },
+  {
+   "processo": "0184039556",
+   "tipo": "Erro",
+   "descricao": "Acertada a importação de NFe no cadastramento ou vinculação de produtos que estejam com 'SEM GTIN' no EAN do XML",
+   "sistema": "IShop.exe, WShop.exe, WShopSE.exe"
+  },
+  {
+   "processo": "0184043878",
+   "tipo": "Erro",
+   "descricao": "Estava com problemas na gravação de usuários? Já realizamos o ajuste para que não ocorra mais o erro.",
+   "sistema": "altlib_Geral.bpl"
+  },
+  {
+   "processo": "0184021771",
+   "tipo": "Erro",
+   "descricao": "Quer abrir suas Ordens de Serviço sem perder tempo com carregamentos infinitos?\nAdeus, lentidão! Implementamos uma trava inteligente no filtro de período da O.S. para não permitir que o período fique vazio. Ele foca em um período, trazendo os resultados na velocidade da luz. Menos espera, mais serviço concluído!",
+   "sistema": "AltShopOrdemServicoEntrada.exe"
+  },
+  {
+   "processo": "0183767420",
+   "tipo": "Erro",
+   "descricao": "Estava tendo problemas nas devolução onde não estava respeitando as casas decimais? O problema já foi resolvido, agora respeita a configuração das casas decimais informada nas opções.",
+   "sistema": "AltShop_Devolucao.bpl"
+  },
+  {
+   "processo": "WSHOP-135404",
+   "tipo": "Erro",
+   "descricao": "Problemas com o estorno da carta de crédito no Delivery?\nImplementamos um ajuste de integridade que garante o estorno exato dos valores em caso de desistência ou cancelamento de pedidos. Essa melhoria elimina \"furos\" no seu relatório de créditos e assegura que o saldo disponível no sistema seja sempre o reflexo real da sua operação.",
+   "sistema": "AltShopProc_Delivery.exe"
+  },
+  {
+   "processo": "0183624550",
+   "tipo": "Erro",
+   "descricao": "Não estava atualizando corretamente as alíquotas do IBPT? Realizamos o ajuste para que seja atualizado corretamente de acorndo com o NCM.",
+   "sistema": "altShopProc_PreencherCargaTributaria"
+  },
+  {
+   "processo": "0183812699",
+   "tipo": "Erro",
+   "descricao": "Não queria que fosse exibido o filtro de empresas no WSHOP? Fizemos um ajuste para que o filtro seja exibo no Wshop apenas se o mesmo for integrado com Ishop. Em Wshop individuais não será mais exibido.",
+   "sistema": "AltShopRel_ContasReceberPagar.exe"
+  },
+  {
+   "processo": "0183172890",
+   "tipo": "Erro",
+   "descricao": "Estava tendo problemas com os horários dos pedidos? Foi incluído uma nova configuração para respeitar o fuso horário -3 na importação dos pedidos.",
+   "sistema": "AltShopProc_Sincronizador4Keep.exe"
+  },
+  {
+   "processo": "0183578352",
+   "tipo": "Erro",
+   "descricao": "Estava ocorrendo a validação de crédito para forma de pagamento PIX? Foi criado uma nova configuração para enviar a forma de pagamento como à vista, de modo que não caia em validação de crédito.",
+   "sistema": "AltShopProc_Sincronizador4Keep.exe, AltShopProc_SincronizadorMercos.exe"
+  },
+  {
+   "processo": "0183511960",
+   "tipo": "Erro",
+   "descricao": "Fiquei sabendo que o sistema estava apresentando uma mensagem que não estava encontrando o módulo Produtos sem vendas na localização na tela principal do sistema. Não se preocupe mais com isso, ajustamos para que seja apresentado corretamente esse relatório.",
+   "sistema": "AltShop_Lib.bpl"
+  },
+  {
+   "processo": "0183873692",
+   "tipo": "Erro",
+   "descricao": "Quer um DRE que mostre exatamente onde seus recursos foram alocados mês a mês?\nTransparência e ordem nos dados. Refinamos a lógica da linha \"Títulos pagos período por data referência/competência\". Mesmo que a baixa ocorra em um mês diferente, o valor aparecerá no relatório conforme a data de referência. É a estabilidade que você precisa para tomar decisões baseadas em dados reais de competência, sem \"ruídos\" causados por atrasos ou antecipações de pagamentos.",
+   "sistema": "AltCashProc_DRE.exe"
+  },
+  {
+   "processo": "WSHOP-136019",
+   "tipo": "Erro",
+   "descricao": "Agora você pode acessar normalmente as configurações de POS integrado do Banrisul no cadastro da empresa.",
+   "sistema": "AltShopProc_CadastroEmpresas.exe"
+  },
+  {
+   "processo": "0183858468",
+   "tipo": "Erro",
+   "descricao": "As notas de serviço não estavam sendo integradas?\nA partir deste momento, as informações da NFSe geradas no WSHOP passarão a seguir o mesmo padrão das notas fiscais eletrônicas (NFe), sendo devidamente enviadas ao ISHOP. Ressalta-se que os arquivos XML e PDF não serão encaminhados, conforme já ocorre para NFe e NFCe.,",
+   "sistema": "IShop.exe, WSched.exe, WShop.exe"
+  },
+  {
+   "processo": "0183698408",
+   "tipo": "Erro",
+   "descricao": "Quer evitar baixas indevidas ao importar o arquivo retorno do Banco Inter?\nNós ajustamos para você! Corrigimos a lógica de importação para que o sistema apenas registre o processamento dos títulos pelo banco. Isso garante que o título não entre em processo de baixa prematuramente, mantendo seu controle de Contas a Receber 100% fiel à realidade e evitando o retrabalho com estornos manuais. Porém, se o arquivo retorno vier preenchido com valor e data de baixa, o título vai entrar em processo de baixa normalmente.",
+   "sistema": "AltShop_Lib.bpl, altshopproc_financeiro.exe"
+  },
+  {
+   "processo": "0183560420",
+   "tipo": "Erro",
+   "descricao": "Notou que produtos inativos ainda apareciam na exportação para a balança? Organizamos o fluxo para você! Ajustamos a rotina de exportação de dados para que apenas os produtos ativos sejam enviados para a balança.",
+   "sistema": "AltShopProc_Balanca.exe"
+  },
+  {
+   "processo": "0183832291",
+   "tipo": "Erro",
+   "descricao": "Encontrou erros ao realizar a conciliação bancária no WCash?\nO caminho está livre! Refinamos a rotina de conciliação do WCash para eliminar as falhas de processamento. Agora, você cruza seus dados bancários com o sistema de forma fluida e segura.",
+   "sistema": "wcash.exe"
+  },
+  {
+   "processo": "0183830845",
+   "tipo": "Erro",
+   "descricao": "Estava ocorrendo erros no financeiros de forma esporádica? Realizamos algumas proteções para que o erro não volte a ocorrer.",
+   "sistema": "altshopproc_financeiro.exe"
+  },
+  {
+   "processo": "0183181011",
+   "tipo": "Erro",
+   "descricao": "Você usa o Shop Simples? Está com dificuldade para abrir o cadastro de produtos simples na tela de distribuição de grade na importação de NF-e?\nTudo resolvido! Ajustamos a abertura para garantir que o cadastro de produtos simples apareça quando você precisa editar sua grade.",
+   "sistema": "AltShop_Lib.bpl"
+  },
+  {
+   "processo": "0183330330",
+   "tipo": "Erro",
+   "descricao": "Notou que ao importar um orçamento para o Delivery e confirmar o pedido, o status original do orçamento não era atualizado?\nSincronização em tempo real! Ajustamos a comunicação entre os módulos para garantir que, no momento da importação para o Delivery, o status do orçamento seja atualizado automaticamente.",
+   "sistema": "AltShopProc_Delivery.exe"
+  },
+  {
+   "processo": "0183591260",
+   "tipo": "Erro",
+   "descricao": "Encontrou dificuldades ao tentar gerar arquivos remessa com muitos títulos simultâneos?\nProblema resolvido! Realizamos um ajuste para garantir que a geração de arquivos acima de 100 títulos ocorra sem erros. Agora, a sua remessa é processada com total fluidez.",
+   "sistema": "AltShopImpressaoCarne.exe"
+  },
+  {
+   "processo": "0183485183",
+   "tipo": "Erro",
+   "descricao": "Removemos do Relatório Resumo do dia as baixas de títulos feitas no financeiro. Somente as baixas de crediário serão apresentadas no relatório.",
+   "sistema": "altshopproc_financeiro.exe"
+  },
+  {
+   "processo": "0183741560",
+   "tipo": "Erro",
+   "descricao": "Realizamos um ajuste fino na rotina de gravação da forma de pagamento do prazo usado no movimento de estoque, para permitir gravar sem erros.",
+   "sistema": "IShop.exe, WShop.exe, WShopSE.exe"
+  },
+  {
+   "processo": "0183617250",
+   "tipo": "Erro",
+   "descricao": "Na geração do registro E316 (Diferencial de alíquotas) percebemos que a UF da própria empresa estava sendo gerada e de forma incorreta.\n\nRemovemos a geração da sua própria UF e deixamos somente as UFs que você realmente realizou vendas e seus valores.",
+   "sistema": "AltShop_Lib.bpl"
+  },
+  {
+   "processo": "0183699304",
+   "tipo": "Erro",
+   "descricao": "Como manter o controle total do inventário em produtos que oscilaram entre ativo e inativo?\nMesmo que um produto tenha sido inativado e ativado novamente, ao emitir o relatório Registro de Inventário com data retroativa, o produto vai aparecer no relatório. Seu histórico permanece 100% íntegro!",
+   "sistema": "AltShopRelatorioinventario.exe"
+  },
+  {
+   "processo": "0183601169",
+   "tipo": "Erro",
+   "descricao": "Ajustamos a geração de NF-e em lote quando você trabalhava com a DLL da NF-e para respeitar a data de saída que for informada se esta for um dia à frente da data atual.",
+   "sistema": "AltShop_NFe2.bpl, IShop.exe, WShop.exe, WShopSE.exe"
+  },
+  {
+   "processo": "0183386246",
+   "tipo": "Erro",
+   "descricao": "Quando você digitava os dados da nota de conhecimento de transporte no documento no movimento, gravava e em seguida editava o documento, as informações não estavam mais lá!\n\nIdentificamos esse problema e corrigimos nesta versão. Digitou os dados, gravou, editou? As informações vão ficar gravadas no documento.",
+   "sistema": "IShop.exe, WShop.exe, WShopSE.exe"
+  },
+  {
+   "processo": "0183800275",
+   "tipo": "Erro",
+   "descricao": "Os valores estavam indo com valores diferentes no envio pelo WhatsApp? Já realizamos o ajuste para que o valor vá correto.",
+   "sistema": "WORC_2005.exe"
+  },
+  {
+   "processo": "0183561298",
+   "tipo": "Erro",
+   "descricao": "Não estava conseguindo localizar um título quando a observação tinha muitos caracteres? Fizemos o ajuste para que o título seja localizado corretamente.",
+   "sistema": "altshopproc_financeiro.exe"
+  },
+  {
+   "processo": "0183501967",
+   "tipo": "Erro",
+   "descricao": "Ao incluir uma empresa enquadrada no MEI estava gravando o CSOSN errado? Agora ao informar que a empresa é MEI e clicar em avançado, será permitido escolher CSOSN para produtos não tributados.",
+   "sistema": "AltShopProc_CadastroEmpresas.exe"
+  },
+  {
+   "processo": "0183740026",
+   "tipo": "Erro",
+   "descricao": "Estava com problemas no envio do XML para o Muven? Fizemos um ajuste para que o problema não ocorra mais.",
+   "sistema": "AltShopProc_Administracao4Middleware.exe"
+  },
+  {
+   "processo": "0183712805",
+   "tipo": "Erro",
+   "descricao": "Estava sendo exibido formas de pagamento de outras empresas no movimento de estoque? Já realizamos o ajuste, para que exiba somente as forma de pagamentos vinculado a empresa do documento, ou vinculados a empresa do ISHOP.",
+   "sistema": "IShop.exe, WShop.exe, WShopSE.exe"
+  },
+  {
+   "processo": "WSHOP-138100",
+   "tipo": "Legislação",
+   "descricao": "Nova validação na NF-e de Devolução para atender à Legislação (NT 2025.002-RTC v.1.40).\n\nAgora, a nota de origem deve ser referenciada individualmente por item, e não mais de forma global.\n\nIsso significa que cada produto devolvido precisa ser associado diretamente ao seu item correspondente na nota de origem. Para evitar rejeições na SEFAZ, o sistema validará automaticamente se a Chave de Acesso e o número do item (nItem) estão preenchidos antes do envio da NF-e.\n\nEsta regra de validação e a geração do XML no novo formato entrarão em vigor no dia 01/09/2026 (caso o prazo da SEFAZ seja prorrogado, o sistema ajustará a data de ativação automaticamente).",
+   "sistema": "AltShop_Devolucao.bpl, AltShop_Lib.bpl, IShop.exe, WShop.exe, WShopSE.exe"
+  },
+  {
+   "processo": "WSHOP-136527",
+   "tipo": "Legislação",
+   "descricao": "Para atender às novas exigências fiscais da Reforma Tributária, implementamos uma nova configuração na Operação de Saída.\nA finalidade de Nota de Débito como \"Nota de perda em estoque (Reforma Tributária)\".\nAo utilizar essa configuração, o sistema adapta a tela de movimento de estoque às exigências fiscais, disponibilizando:\nVínculo da NF-e de Origem: Campos dedicados para informar a NF-e de Compra e o número do item (nItem) que originou o estoque.\n\nEstorno de IBS e CBS: Cálculo automático e proporcional (total ou parcial) do estorno desses tributos, baseado na quantidade informada no documento de perda.",
+   "sistema": "AltShop_Lib.bpl, AltShop_NFe2.bpl, IShop.exe, WShop.exe, WShopSE.exe"
+  },
+  {
+   "processo": "WSHOP-138266",
+   "tipo": "Legislação",
+   "descricao": "Seus processos logísticos estão preparados para receber os novos formatos de CNPJ com letras e números?\nCompatibilidade com CNPJ Alfanumérico ativada no Emissor de MDF-e. Sincronizamos os layouts e validadores de Manifesto Eletrônico (MDF-e) com as exigências técnicas mais recentes do governo.",
+   "sistema": "AltShop_Lib.bpl, AltShopProc_CadastroTransportador.exe, AltShopProc_GerenciadorMDFe.exe"
+  },
+  {
+   "processo": "WSHOP-119237",
+   "tipo": "Legislação",
+   "descricao": "Atualizamos o sistema para o novo padrão de CNPJ Alfanumérico, atendendo à Instrução Normativa 2.229/2024 da Receita Federal. Essa evolução prepara o seu negócio para a transição do modelo tradicional para o formato com letras, garantindo total conformidade nas futuras emissões de documentos.\n\nO que mudou na prática? As telas de cadastro de CNPJ agora aceitam letras e números.",
+   "sistema": "altlib_Geral.bpl, AltShop_Lib.bpl, AltShop_NFe2.bpl, AltShopOrdemServicoEntrada.exe, AltShopProc_GerarSPED.exe, IShop.exe, WShop.exe, WShopSE.exe"
+  },
+  {
+   "processo": "0184262512",
+   "tipo": "Legislação",
+   "descricao": "Anteriormente, ao informar o lote e a quantidade, o sistema exigia o preenchimento obrigatório das datas de fabricação e validade. A partir de agora, essas datas passam a ser opcionais. Caso não sejam preenchidas, o sistema exibirá um aviso informativo, mas permitirá salvar o registro normalmente.",
+   "sistema": "AltShop_Lib.bpl"
+  },
+  {
+   "processo": "0182276027",
+   "tipo": "Legislação",
+   "descricao": "Novidade no sistema: Mais automação para as suas obrigações fiscais!\nEntregar o SPED Fiscal sem erros ficou ainda mais simples. Acabamos de liberar o novo recurso para geração automatizada do Registro E115.\n\nAgora, você tem total controle nas mãos: basta incluir o código de informação adicional e selecionar quais CFOPs devem compor o registro. O sistema cuida de todo o resto de forma inteligente! Ele realiza a soma automática dos valores por CFOP e faz o agrupamento correto utilizando o Código da Informação Adicional (tabela 5.2 da SEFAZ).",
+   "sistema": "AltShop_Lib.bpl, AltShopProc_GerarSPED.exe"
+  },
+  {
+   "processo": "NOTAF-9933",
+   "tipo": "Legislação",
+   "descricao": "Retirada a validação da emissão de NFCe para cliente com CNPJ, devido a revogação da proibição (AJUSTE SINIEF Nº 12, DE 6 DE ABRIL DE 2026).",
+   "sistema": "NFCe_PDVAlt.all"
+  },
+  {
+   "processo": "NOTAF-9593",
+   "tipo": "Melhoria",
+   "descricao": "A nova tela de vendas do Nota Fácil chegou! 🚀\n\nRedesenhamos a interface para deixar o seu dia a dia ainda mais simples e intuitivo. Agora, as informações de clientes, vendedores e recebimentos ganharam telas dedicadas e organizadas. O resultado? Um processo de venda muito mais limpo, claro e ágil para o seu negócio.",
+   "sistema": "altshopproc_movestoqueotimizado.exe"
+  },
+  {
+   "processo": "WSHOP-137299",
+   "tipo": "Melhoria",
+   "descricao": "Queria poder visualizar o valor do cashback dos clientes no orçamento? A partir dessa versão será exibido o valor de cashback que o cliente possui.",
+   "sistema": "WORC_2005.exe"
+  },
+  {
+   "processo": "0183147221",
+   "tipo": "Melhoria",
+   "descricao": "🚀 Chegou novidade!\n\nAgora você tem melhor controle sobre suas vendas parceladas. Implementamos a configuração de Valor Mínimo da Parcela no Cartão de Crédito!\n\nCom essa novidade, você define o valor mínimo que o saldo a pagar precisa ter para liberar cada faixa de parcelamento. Se o valor não for atingido, o sistema ajusta o limite de parcelas automaticamente (ou bloqueia o uso da forma de pagamento, se configurado para a 1ª parcela).\n\n🎯 O que você ganha? Mais proteção para a margem de lucro do seu negócio e mais autonomia para criar suas regras de venda!",
+   "sistema": "AltShop_Lib.bpl, AltShopOrdemServicoEntrada.exe, AltShopProc_Delivery.exe, AltShopProc_GerenciadorCartaCredito.exe, altshopproc_movestoqueotimizado, WORC_2005.exe, WShop.exe"
+  },
+  {
+   "processo": "0184226115",
+   "tipo": "Melhoria",
+   "descricao": "Removido o 'Total Aprox. Impostos' da discriminação do serviço, conforme a Nota Técnica Nº 008 (Versão 1.0) das Especificações Técnicas do DANFSe.\nO valor passará a ser gerado no DANFSe pelo ISS-Easy no campo 'Informações Complementares'.",
+   "sistema": "AltShop_Configuracoes.exe, AltShop_Lib.bpl"
+  },
+  {
+   "processo": "0184652000",
+   "tipo": "Melhoria",
+   "descricao": "Enfrentando problemas de rejeição no XML ao emitir notas fiscais de importação devido ao tamanho do campo \"Número DI/DSI/DA\"?\nAmpliamos o limite do campo destinado ao preenchimento da DI, DSI e DA para até 15 caracteresno movimento de estoque. Essa melhoria garante que as novas numerações estendidas dos documentos de importação caibam perfeitamente na estrutura fiscal, permitindo que você nacionalize suas mercadorias e emita suas notas de entrada com total agilidade e zero travamentos.",
+   "sistema": "AltShop_Lib.bpl, IShop.exe, WShop.exe, WShopSE.exe"
+  },
+  {
+   "processo": "NOTAF-10097",
+   "tipo": "Melhoria",
+   "descricao": "Mais agilidade na correção de erros da NFC-e!\n\nChega de corrigir um produto por vez! Agora, ao gerar uma NFC-e, o sistema exibe as inconsistências de até 10 produtos simultaneamente. Com esse novo painel visual, você identifica e corrige múltiplos erros de uma só vez, economizando tempo e agilizando as suas vendas.",
+   "sistema": "altshop_interface_layouts.dll"
+  },
+  {
+   "processo": "0182946388",
+   "tipo": "Melhoria",
+   "descricao": "Implementado o campo 'Código indicador da Operação (para NFSe)' no cadastro de operações. O sistema permite o primeiro preenchimento deste vínculo, mesmo em operações já utilizadas, sem precisar duplicar o cadastro.",
+   "sistema": "AltShop_Lib.bpl, IShop.exe, WShop.exe, WShopSE.exe"
+  },
+  {
+   "processo": "0184648249",
+   "tipo": "Melhoria",
+   "descricao": "Quer garantir que o layout dos seus boletos gerados pelo Shop atenda às exigências gráficas do Bradesco?\nCorreção na máscara do campo Carteira. Sincronizamos a exibição visual da ficha de compensação com as regras do banco. O sistema foi corrigido para não inserir zeros à esquerda de forma indevida na impressão da carteira, trazendo exatamente os dígitos informados no cadastro do Bradesco.",
+   "sistema": "AltShop_Lib.bpl"
+  },
+  {
+   "processo": "WSHOP-137879",
+   "tipo": "Melhoria",
+   "descricao": "Identificamos uma instabilidade no gerenciador de XML na nuvem? Já realizamos um ajuste para que o sistema crie o caminho de extração automática de forma completa, sem abreviações, corrigindo o problema.",
+   "sistema": "altlib_Geral.bpl, AltShopProcExtratorXML.exe"
+  },
+  {
+   "processo": "0182300438",
+   "tipo": "Melhoria",
+   "descricao": "Queria poder ver a lucratividade do orçamento na tela principal do sistema? A partir de agora será possível. Foi incluído o recurso para exibir o lucro sobre o preço e sobre o custo.",
+   "sistema": "WORC_2005.exe"
+  },
+  {
+   "processo": "WSHOP-137946",
+   "tipo": "Melhoria",
+   "descricao": "Está integrado com o Ms-market (Tecnospeed) para realização de suas vendas online e precisa incluir os atributos que são obrigatórios? Incluímos a opção no manutenção de produtos para facilitar a inclusão dos atributos.",
+   "sistema": "AltShopProc_ManutencaoProdutos.exe"
+  },
+  {
+   "processo": "0024137856",
+   "tipo": "Melhoria",
+   "descricao": "Cadastrar novos usuários ficou muito mais simples e rápido!\nChega de perder tempo configurando permissão por permissão. Com a nova funcionalidade de Perfil de Usuário, você cria perfis com acessos pré-definidos e, na hora de cadastrar alguém, basta selecionar o perfil ideal.\nMenos cliques, mais segurança e muito mais produtividade para o seu dia a dia.",
+   "sistema": "altlib_Geral.bpl, ISHOP.ACE, IShop.exe, WSHOP.ACE, WShop.exe, WShopSE.exe"
+  },
+  {
+   "processo": "0184325448",
+   "tipo": "Melhoria",
+   "descricao": "Dificuldades para cruzar o Extrato de Produtos com as referências dos seus fornecedores?\nLiberação de novas variáveis de códigos. Atualizamos o relatório para incluir todos os formatos de codificação de mercadorias no Extrato de Produtos.",
+   "sistema": "AltShopRelextratoprodutos.exe"
+  },
+  {
+   "processo": "0182218675",
+   "tipo": "Melhoria",
+   "descricao": "Queria poder bloquear pedidos para clientes inadimplentes no 4Keep? Agora você pode!\nImplementamos a nova configuração \"Bloquear criação de pedido para clientes inadimplentes\". Quando ativada, o sistema passará a permitir apenas pedidos com pagamento à vista para esses clientes, bloqueando qualquer pedido a prazo no aplicativo.",
+   "sistema": "AltShopProc_Sincronizador4Keep.exe"
+  },
+  {
+   "processo": "0184157727",
+   "tipo": "Melhoria",
+   "descricao": "Queria importar um arquivo em Excel para atualizar somente o preço sugerido? A partir de agora isso será possível, foi implementado uma nova configuração no módulo \"Importar somente o preço sugerido, o preço praticado permanecerá inalterado\". Com essa configuração marcada apenas o preço sugerido será importado.",
+   "sistema": "AltShopProc_ImportacaoProdutosExcel.exe"
+  },
+  {
+   "processo": "0181761965",
+   "tipo": "Melhoria",
+   "descricao": "Deseja manter o preço da loja de origem durante a transferência?\nImplementamos um checkbox na tela de seleção para o aceite de transferência no movimento de estoque. Esta funcionalidade permite que os valores de custo, preço sugerido e preço praticado sejam replicados integralmente da empresa de origem para a empresa de destino.",
+   "sistema": "IShop.exe"
+  },
+  {
+   "processo": "0033572709",
+   "tipo": "Melhoria",
+   "descricao": "Gostaria de enviar o orçamento em formato PDF diretamente pelo módulo de orçamento?\nA partir de agora isso é possível. Realizamos a integração com o Karoo Bot, uma funcionalidade que permite o envio do PDF do orçamento acompanhado de uma mensagem personalizada, sem a abertura do Whatsapp Web.",
+   "sistema": "AltShopProc_CadastroEmpresas.exe, AltShopProc_GerenciadorWhatsapp.exe, IShop.exe, WORC_2005.exe, WShop.exe"
+  },
+  {
+   "processo": "WSHOP-132338",
+   "tipo": "Melhoria",
+   "descricao": "Adicionamos o selo da parceria Itaú no Live Desktop dos Sistemas Desktop. O selo fica logo abaixo do tópico \"aprenda com vídeos\".",
+   "sistema": "altlib_Geral.bpl, AltShop_Lib.bpl, AltShop_NFe2.bpl, IShop.exe, WSched.exe, WShop.exe"
+  },
+  {
+   "processo": "WSHOP-138092",
+   "tipo": "Melhoria",
+   "descricao": "Esbarrando em bloqueios ao tentar centralizar a baixa em lote de títulos de empresas diferentes usando a mesma conta bancária?\nFlexibilidade total para tesourarias centralizadas! Ajustamos a baixa em lote para permitir baixar títulos de empresas diferente usando as mesmas contas do Cash.",
+   "sistema": "altshopproc_financeiro.exe"
+  },
+  {
+   "processo": "0184578282",
+   "tipo": "Melhoria",
+   "descricao": "Mesmo a empresa estando configurada como indisponível para determinada empresa, estava conseguindo importar os itens no inventário? Na importação geral de produtos o produto inativo não será importado, se for adicionado manualmente será questionado se deseja incluir mesmo estando indisponível.",
+   "sistema": "WINV.exe"
+  },
+  {
+   "processo": "WSHOP-138073",
+   "tipo": "Melhoria",
+   "descricao": "Esbarrando em bloqueios ao tentar centralizar a baixa em lote de títulos de empresas diferentes usando a mesma conta bancária?\nFlexibilidade total para tesourarias centralizadas! Ajustamos a baixa em lote para permitir baixar títulos de empresas diferente usando as mesmas contas do Cash.",
+   "sistema": "altshopproc_financeiro.exe"
+  },
+  {
+   "processo": "WSHOP-138046",
+   "tipo": "Melhoria",
+   "descricao": "Quer mais precisão ao extrair dados de movimentação de produtos com clientes e fornecedores de outros estados?\nNovo filtro de UF integrado. Expandimos os critérios de busca no módulo de movimentação de estoque. Com a chegada do filtro por estado (UF) de Clientes e Fornecedores, você isola rapidamente as operações de regiões específicas na mesma tela, eliminando a necessidade de filtros manuais ou planilhas externas.",
+   "sistema": "IShop.exe, WShop.exe, WShopSE.exe"
+  },
+  {
+   "processo": "WSHOP-136181",
+   "tipo": "Melhoria",
+   "descricao": "Realizado nova integração com a Napp.",
+   "sistema": "AltShopProc_IntegradorNappStorage.exe"
+  },
+  {
+   "processo": "0179949907",
+   "tipo": "Melhoria",
+   "descricao": "Adicionado o campo \"Limite de escolha\" no cadastro de perguntas de adicionais. A nova função permite limitar a quantidade máxima de opções que o cliente pode selecionar em um adicional, trazendo mais segurança e flexibilidade para a configuração do cardápio.",
+   "sistema": "AltShopProc_CadastroProdutosSpice.exe, IShop.exe, WShop.exe, WShopSE.exe"
+  },
+  {
+   "processo": "0184489517",
+   "tipo": "Melhoria",
+   "descricao": "Criada opção \"Utilizar dados da tabela detalhe\" na seleção da empresa de origem, nesse caso a tabela empdet será gerada para a empresa de destino com base nos dados da detalhe e não de outra empresa.",
+   "sistema": "AltShopGeracaoBase.exe"
+  },
+  {
+   "processo": "NOTAF-9941",
+   "tipo": "Melhoria",
+   "descricao": "Aprimoramos a mensagem de erro exibida ao tentar cancelar uma NFC-e que apresentou falhas.",
+   "sistema": "altshopproc_cancelamentoNFCe.exe"
+  },
+  {
+   "processo": "WSHOP-137266",
+   "tipo": "Melhoria",
+   "descricao": "Incluído proteção para produtos indisponível por empresa no ISHOP multi empresas. Nesta modalidade apenas não será permitido a movimentação do produto para a empresa que foi definida como indisponível.",
+   "sistema": "AltShopOrdemServicoEntrada.exe, AltShopProc_CadastroPedidosCompras.exe, AltShopProc_CompraFacil.exe, AltShopProc_Delivery.exe, AltShopProc_SolicitacaoTransferencia.exe, IShop.exe, WORC_2005.exe, WShop.exe"
+  },
+  {
+   "processo": "0183922116",
+   "tipo": "Melhoria",
+   "descricao": "Precisa de mais controle sobre qual saldo de estoque enviar para a força de vendas no Palm?\nGestão de estoque sob medida! Criamos uma nova inteligência no integrador Shop x Palm. Agora, na tela de exportação, você conta com o parâmetro \"Tipo de estoque para exportar\". Com ele, você decide se os coletores e dispositivos móveis receberão o saldo dos produtos em prateleira, no depósito ou a soma de ambos, evitando furos de estoque e otimizando suas vendas.",
+   "sistema": "AltShopProc_IntegracaoOrcamentoPDALogicalAFV.exe"
+  },
+  {
+   "processo": "NOTAF-9976",
+   "tipo": "Melhoria",
+   "descricao": "🚀 Chegou a produção automática no Nota Fácil!\nAgora, ao vender um produto composto, o Nota Fácil cuida da produção e da baixa dos seus insumos de forma totalmente automatizada!\n\nSem que você precise fazer nada manualmente, o sistema processa tudo e atualiza seu estoque em momentos estratégicos: diretamente no encerramento do seu caixa ou assim que você abrir o módulo no dia seguinte.\n\nMais tempo para o seu negócio, menos trabalho manual na sua rotina!",
+   "sistema": "altshopproc_movestoqueotimizado.exe"
+  },
+  {
+   "processo": "WSHOP-137514",
+   "tipo": "Melhoria",
+   "descricao": "Estava com problemas na abertura do módulo em alguns terminais? Realizamos alguns ajustes para que o módulo seja aberto normalmente.",
+   "sistema": "AltShopProc_Administracao4Middleware.exe"
+  },
+  {
+   "processo": "NOTAF-9425",
+   "tipo": "Melhoria",
+   "descricao": "Agora em casos de falha na comunicação com a Sefaz durante o envio da sua NFC-e, o Nota Fácil auxilia e automatiza as tentativas do cancelamento, inutilização e reenvio das notas para você.",
+   "sistema": "AltLib_PDV.bpl, altshopproc_cancelamentoNFCe.exe, altshopproc_movestoqueotimizado.exe, NFCe_PDVAlt.all, NFCe_PDVAlt2.dll"
+  },
+  {
+   "processo": "0184044461",
+   "tipo": "Melhoria",
+   "descricao": "Melhoramos a mensagem ao lado do campo \"Meios de pagamento\" para explicar que o campo Meios de pagamento tem por objetivo atender as moedas Parcelado e Cartão.",
+   "sistema": "IShop.exe, WShop.exe, WShopSE.exe"
+  },
+  {
+   "processo": "NOTAF-9956",
+   "tipo": "Melhoria",
+   "descricao": "Chegou novidade!\nAgora o Nota Fácil aceita o TEF da Scope. Isso significa muito mais liberdade para você escolher a maquininha que melhor atende o seu negócio.",
+   "sistema": "AltLib_PDV.bpl, altshop_interface_layouts.dll, altshopproc_movestoqueotimizado.exe, AltTefDedicadoScope.lay"
+  },
+  {
+   "processo": "WSHOP-135531",
+   "tipo": "Melhoria",
+   "descricao": "Deseja visualizar os valores de Difal durante a inclusão do documento?\n\nAgora isso é possível! Quando possuir valores de Difal, a aba Difal será exibida na tela do item do movimento de estoque para consulta.",
+   "sistema": "AltShop_Lib.bpl, IShop.exe, WShop.exe, WShopSE.exe"
+  },
+  {
+   "processo": "0184153882",
+   "tipo": "Melhoria",
+   "descricao": "Deseja definir qual unidade de medida utilizar na importação da NF-e (Comercial ou Tributável)?\n\nAgora você tem essa flexibilidade! Em Configurações e Manutenção > Opções > Movimentação, disponibilizamos a opção: \"Na Importação da NFe utilizar a unidade Comercial\".\n\nObservação: Por padrão, o sistema utilizará a unidade comercial.",
+   "sistema": "AltShop_Configuracoes.exe, IShop.exe, WShop.exe, WShopSE.exe"
+  },
+  {
+   "processo": "WSHOP-136681",
+   "tipo": "Melhoria",
+   "descricao": "Incluído no manutenção de produtos a possibilidade de marcar se o produto está disponível ou indisponível em determinada empresa em massa.",
+   "sistema": "AltShopProc_ManutencaoProdutos.exe"
+  },
+  {
+   "processo": "0183951944",
+   "tipo": "Melhoria",
+   "descricao": "Deseja restringir a venda de determinados produtos em uma loja específica da rede? Agora isso é possível.\nAo tornar um produto indisponível para uma empresa específica, ele passará automaticamente a ficar inativo na empresa de destino no WShop.\nAdicionalmente, caso o produto seja inativado no IShop, ele se tornará indisponível para todas as empresas vinculadas.",
+   "sistema": "AltShop_Configuracoes.exe, AltShopProc_CadastroProdutos.exe, WSched.exe"
+  },
+  {
+   "processo": "0179026815",
+   "tipo": "Melhoria",
+   "descricao": "Queria poder abrir a consulta de produtos por fora do orçamento? A partir de agora isso será possível, incluímos a opção de consultar produtos.",
+   "sistema": "WORC_2005.exe"
+  },
+  {
+   "processo": "WSHOP-136234",
+   "tipo": "Melhoria",
+   "descricao": "Precisa aplicar um reajuste de valor fixo em vários produtos ao mesmo tempo, sem depender de cálculos de porcentagem?\nControle absoluto no centavo! Implementamos a opção de \"R$\" no módulo de Manutenção de Preços para adicionar um valor nos produtos filtrados.",
+   "sistema": "AltShopProc_ManutencaoPrecoProduto.exe"
+  },
+  {
+   "processo": "WSHOP-136240",
+   "tipo": "Melhoria",
+   "descricao": "Cansado de ter que ajustar o preço sugerido e o praticado em processos separados?\nGanhe o dobro de tempo! Atendendo aos pedidos de quem busca agilidade na gestão, incluímos a opção \"Preço Sugerido e Praticado\" simultaneamente no módulo de Manutenção de Preços. Agora, com apenas um clique, você atualiza ambos os valores, mantendo sua tabela de preços sincronizada e sua operação muito mais rápida.\nAlém disso, incluímos uma opção de ajuste por valor para todos as opções de preço.",
+   "sistema": "AltShopProc_ManutencaoPrecoProduto.exe"
+  },
+  {
+   "processo": "0179682574",
+   "tipo": "Melhoria",
+   "descricao": "Queria poder imprimir os enderços adicionais do cliente no orçamento? Agora será possível, foi criado um novo condutor que tráz essas informações.",
+   "sistema": "WORC_2005.exe"
+  },
+  {
+   "processo": "0183975806",
+   "tipo": "Melhoria",
+   "descricao": "Não havia o atalho para o cadastro de clientes no acesso rápido do ISHOP. Informamos que o ajuste já foi realizado e, a partir de agora, o cadastro de clientes encontra-se disponível no acesso rápido.",
+   "sistema": "IShop.exe"
+  },
+  {
+   "processo": "0055982397",
+   "tipo": "Melhoria",
+   "descricao": "Mais inteligência para suas compras! Criamos a coluna \"Melhor Preço\" no módulo Cotação! Facilitamos sua análise de custos! Agora você visualiza o menor valor de cada item. Incluímos também um totalizador dos melhores preços na barra inferior da tela o valor total da compra.",
+   "sistema": "AltShopProc_Cotacao.exe"
+  },
+  {
+   "processo": "0179719610",
+   "tipo": "Melhoria",
+   "descricao": "Precisa de mais flexibilidade nos seus lançamentos de múltiplos títulos? Ao ativar a opção \"Permitir títulos a pagar para funcionários\", você ganha a liberdade de escolher o destino de cada pagamento — seja para um fornecedor externo ou diretamente para sua equipe em um período maior.",
+   "sistema": "altshopproc_financeiro.exe"
+  },
+  {
+   "processo": "0182221257",
+   "tipo": "Melhoria",
+   "descricao": "Gostaria de filtrar orçamentos por clientes e vendedores? Informamos que, a partir de agora, o módulo de orçamentos conta com um filtro lateral, que pode ser exibido ou ocultado com apenas um clique. Nesse filtro, foram incluídas as opções de filtragem por clientes e vendedores, além dos demais filtros já disponíveis na parte superior da tela de orçamentos.",
+   "sistema": "WORC_2005.exe"
+  },
+  {
+   "processo": "0184004832",
+   "tipo": "Melhoria",
+   "descricao": "Gostaria de exibir informações específicas do cadastro do cliente diretamente nos seus orçamentos?\nIntegração total de informações. Adicionamos a variável de \"Observações Complementares\" ao gerador de relatórios de orçamento. Com ela, aquele texto detalhado que você registrou no cadastro do cliente é transportado para o PDF do orçamento.",
+   "sistema": "AltShopRel_Orcamento.exe"
+  },
+  {
+   "processo": "0179793420",
+   "tipo": "Melhoria",
+   "descricao": "Estava sentindo falta do código do produto no fornecedor e foto na grid do Inventário? Para te atender incluímos a coluna \"Cod no Fornec Principal\" e ao clicar com o botão direito do mouse no produto desejado vai lhe dar a opção de visualizar foto do item.\n\nTambém criamos duas variáveis no relatório personalizado para mostrar estas informações. O nome das variáveis é:\n\nProduto -> Código no Fornecedor\nProduto -> Foto",
+   "sistema": "WINV.exe"
+  },
+  {
+   "processo": "WSHOP-136165",
+   "tipo": "Melhoria",
+   "descricao": "Estava sendo exibido a aba do ShopOn/SpiceOn no cadastro de produtos mesmo sem ter integração? Agora a aba só ficará visível, se o sistema estiver integrado.",
+   "sistema": "AltShopProc_CadastroProdutos.exe"
+  },
+  {
+   "processo": "0183388154",
+   "tipo": "Melhoria",
+   "descricao": "Já teve receio de apagar dados do inventário por um clique acidental ou automático?\nSegurança em primeiro lugar! Para evitar a exclusão indevida de informações, alteramos o foco padrão da pergunta de confirmação de apagamento para \"Não\" na importação de arquivo de inventário. Agora, o sistema protege o seu trabalho, exigindo uma ação intencional e consciente caso você realmente deseje limpar os dados apurados anteriormente.",
+   "sistema": "WINV.exe"
+  },
+  {
+   "processo": "0183912962",
+   "tipo": "Melhoria",
+   "descricao": "Agora o sistema ficou ainda mais inteligente e personalizado: você pode optar por sempre gerar títulos na sangria, e ele vai lembrar automaticamente sua última preferência. Ou seja, se na sua última ação você escolheu gerar (ou não) títulos, essa configuração será mantida nas próximas vezes, sem precisar ajustar novamente.",
+   "sistema": "altshopproc_movestoqueotimizado.exe"
+  },
+  {
+   "processo": "0182687965",
+   "tipo": "Melhoria",
+   "descricao": "Notou que alguns produtos \"sumiam\" da ordem alfabética no Winv por causa de acentos ou letras maiúsculas?\nOrdem absoluta! Ajustamos a inteligência de ordenação do Winv para que o sistema ignore a diferença entre maiúsculas, minúsculas e caracteres acentuados.",
+   "sistema": "WINV.exe"
+  },
+  {
+   "processo": "0183831819",
+   "tipo": "Melhoria",
+   "descricao": "Queria enviar produtos com saldo negativo para a Mercos? A partir de agora será possível, basta marcar uma configuração no integrador que as quantidades negativas serão enviadas, caso não esteja marcado, o produto será enviado com estoque zero.",
+   "sistema": "AltShop_Lib.bpl, AltShopProc_Sincronizador4Keep.exe, AltShopProc_SincronizadorMercos.exe, IntegradorMercosAPI"
+  },
+  {
+   "processo": "0183558816",
+   "tipo": "Melhoria",
+   "descricao": "Sentia falta de visualizar o preço real de venda no Relatório Personalizado do inventário?\nNós ouvimos você! Adicionamos a variável 'Preço Praticado' para que você tenha total liberdade de escolha. Agora, além do preço sugerido, você pode incluir o valor praticado em seus relatórios, facilitando a conferência de valores e o fechamento do seu estoque com dados 100% fiéis ao caixa.",
+   "sistema": "WINV.exe"
+  },
+  {
+   "processo": "0179582516",
+   "tipo": "Melhoria",
+   "descricao": "Sentiu falta de identificar as famílias de produtos no seu inventário?\nNós ouvimos você! Adicionamos as informações de Código e Nome da Família ao relatório para que você não precise mais cruzar dados manualmente. Agora, a informação está lá, pronta para uso",
+   "sistema": "AltShopRelatorioinventario.exe"
+  },
+  {
+   "processo": "0180157146",
+   "tipo": "Melhoria",
+   "descricao": "Queria poder ver as fotos dos produtos na impressão/visualização da lista de presentes? Foi incluída a variável de foto do item que poderá ser inserida no layout.",
+   "sistema": "AltShopProc_GerenciadorListas.exe"
+  },
+  {
+   "processo": "0183609457",
+   "tipo": "Melhoria",
+   "descricao": "O título do filtro de data do relatório estava errado, onde mostrava emissão, mais filtrava por referência. Já realizamos o ajuste no título do filtro para data de referência.",
+   "sistema": "AltShopRel_QuadroVendaDiaria.exe"
+  },
+  {
+   "processo": "WSHOP-135810",
+   "tipo": "Novo Recurso",
+   "descricao": "Vende no Ifood mercado, agora o Delivey está integrado, com isso suas vendas caem direto nele.",
+   "sistema": "AltShop_Lib.bpl, AltShopProc_Delivery.exe"
+  },
+  {
+   "processo": "WSHOP-135797",
+   "tipo": "Novo Recurso",
+   "descricao": "Tem depósito de bebidas e vende no Delivery? A partir de agora o módulo do Delivery conta com a integração com o Zé Delivery.",
+   "sistema": "AltShopProc_Delivery.exe, WShop.exe"
+  },
+  {
+   "processo": "NOTAF-9198",
+   "tipo": "Novo Recurso",
+   "descricao": "Mais agilidade na configuração do seu Certificado Digital!\n\nAgora, o Nota Fácil permite que você realize o armazenamento do seu certificado diretamente na base de dados. Com essa atualização, não é mais necessário que o certificado esteja instalado no Windows da sua máquina.",
+   "sistema": "AltLib_PDV.bpl, altshop_interface_layouts.dll, altshopproc_cancelamentoNFCe.exe, altshopproc_movestoqueotimizado.exe, NFCe_PDVAlt.all, NFCe_PDVAlt2.dll"
+  },
+  {
+   "processo": "WSHOP-130588",
+   "tipo": "Novo Recurso",
+   "descricao": "Quer oferecer a velocidade do PIX com a inteligência de integração da Scanntech?\nO pagamento do futuro, agora está disponível também para pagamentos via PIX diretamente para a API da Scanntech. Com essa novidade, suas transações são processadas de forma instantânea e segura.",
+   "sistema": "AltShop_SincronizadorScanntech.exe"
+  },
+  {
+   "processo": "WSHOP-128859",
+   "tipo": "Novo Recurso",
+   "descricao": "Implementação o Administrador do 4middleware para interação com pedidos vindos do Ms-Market.",
+   "sistema": "AltShopProc_Administracao4Middleware.exe"
+  },
+  {
+   "processo": "0183556544",
+   "tipo": "Proteção",
+   "descricao": "Sabe quando ao fazer uma desconciliação e os títulos deixavam de aparecer nos lançamentos? Resolvemos! Reforçamos a estabilidade da desconciliação de lançamentos. Agora seus dados ficam sempre protegidos e você mantém o controle total das suas movimentações!",
+   "sistema": "wcash.exe"
+  },
+  {
+   "processo": "0184747560",
+   "tipo": "Proteção",
+   "descricao": "Realizado ajuste no Wsched para que ele veja corretamente a pasta do executável.",
+   "sistema": "WSched.exe"
+  },
+  {
+   "processo": "0184519715",
+   "tipo": "Proteção",
+   "descricao": "Estava com problemas na atualização de licença na geração por DLL? Já fizemos o acerto na busca da licença ao clicar no botão \"Atualizar dados\"",
+   "sistema": "AltShop_NFe2.bpl"
+  },
+  {
+   "processo": "0184350443",
+   "tipo": "Proteção",
+   "descricao": "Evite prejuízos e proteja sua margem de lucro!\nAgora, o sistema avisa automaticamente se você tentar cadastrar um produto com o preço de custo maior do que o preço de venda. Com esse novo alerta de confirmação, você tem total controle e evita erros que possam custar caro ao seu bolso.",
+   "sistema": "AltShopProc_CadastroProdutos.exe"
+  },
+  {
+   "processo": "WSHOP-136924",
+   "tipo": "Proteção",
+   "descricao": "Sua tabela de Formas de Pagamento do SiTef andava poluída com moedas que você nem usa mais?\nInterface limpa e à prova de falhas. A partir de agora, apenas as moedas ativas aparecem na tabela de forma de pagamento para SiTef, facilitando a visualização. Para garantir que tudo continue funcionando perfeitamente, o sistema bloqueia automaticamente a desativação de qualquer moeda que tenha vínculo com a tabela do SiTef. Mais organização para o gestor e segurança para o caixa.",
+   "sistema": "AltShopConfigRecSitef.exe, IShop.exe, WShop.exe"
+  },
+  {
+   "processo": "0183669239",
+   "tipo": "Proteção",
+   "descricao": "Criado opção para \"Habilitar inventário com data retroativa\" nas configurações.\nSerá exibido indicador na parte superior esquerda da Grid, onde poderá definir a data de apuração do estoque, dessa forma o estoque trazido para a Grid será o estoque da data definida pelo usuário, permitindo que o cálculo seja feito a partir destes valores.",
+   "sistema": "WINV.exe"
+  },
+  {
+   "processo": "NOTAF-10021",
+   "tipo": "Sugestão de melhoria da Usabilidade",
+   "descricao": "Disponibilizadas as configurações de Pix e Assinatura PDV para o TEF Scope diretamente nas opções do Nota Fácil.",
+   "sistema": "altshopproc_movestoqueotimizado.exe"
+  },
+  {
+   "processo": "NOTAF-10027",
+   "tipo": "Sugestão de melhoria da Usabilidade",
+   "descricao": "Agora ficou mais rápido desfazer operações no sistema. Adicionamos o atalho Alt + A para abrir diretamente a tela de Cancelamento de Carta de Crédito dentro do Nota Fácil. Menos cliques, mais produtividade no seu caixa!",
+   "sistema": "altshopproc_movestoqueotimizado.exe"
+  }
+ ]
+}

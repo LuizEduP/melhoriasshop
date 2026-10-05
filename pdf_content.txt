@@ -1,0 +1,77 @@
+
+===== PAGINA 1 =====
+REVIEW
+SHOP 6.1514
+
+===== PAGINA 2 =====
+Time
+===== PAGINA 3 =====
+Visão geral: 225 processos
+130 87 5
+===== PAGINA 4 =====
+Interface
+===== PAGINA 5 =====
+Interface em 2014
+===== PAGINA 6 =====
+Nota Fácil  -  Interface atual
+===== PAGINA 7 =====
+Nota Fácil  - Nova interface
+===== PAGINA 8 =====
+Nota Fácil  - Produção Automática
+===== PAGINA 9 =====
+Forma de Pagamento - Valor mínimo da parcela
+===== PAGINA 10 =====
+CNPJ terá letras e números a partir de Julho de 2026
+===== PAGINA 11 =====
+NOTA DE DÉBITO - Perda em estoque REFORMA TRIBUTÁRIA
+===== PAGINA 12 =====
+NOTA DE DÉBITO - Perda em estoque REFORMA TRIBUTÁRIA
+===== PAGINA 13 =====
+NF-e Devolução - Documento fiscal referenciado por item
+Notas de devolução, o referenciamento passa a ser efetuado exclusivamente no grupo
+“DFeReferenciado”.
+===== PAGINA 14 =====
+Cadastro de usuário - Perfil de usuário
+===== PAGINA 15 =====
+ISHOP  - Ter opção de indisponibilizar produtos para uma(s) loja(s) da rede
+===== PAGINA 16 =====
+Delivery Shop - Integração com Zé delivery via HUB
+===== PAGINA 17 =====
+Delivery Shop - Integração com Zé delivery via HUB
+===== PAGINA 18 =====
+Delivery Shop - Integração com Zé delivery via HUB
+Não exporta produtos
+       Copiar o IDProduto →   para o portal Ze Delivery
+Status/Etapas do pedido do Delivery Shop →  Zé Delivery 
+      Confirmação do pedido
+      Cancelamento do pedido
+      Entrega finalizada
+Status/Etapas do pedido do  Zé Delivery →  Delivery Shop
+      Entrega finalizada
+      
+===== PAGINA 19 =====
+Delivery Shop - Integração IFood Mercado via HUB
+===== PAGINA 20 =====
+Delivery Shop - Integração IFood Mercado via HUB
+
+===== PAGINA 21 =====
+Delivery - Integração com IFood Mercado via HUB
+Integração completa 
+       Exporta produtos e importa pedidos
+Integração do pedidos para o Delivery Shop
+  Gerenciador de pedidos do IFood precisa estar aberto para aceitar os pedidos
+Status/Etapas do pedido do Delivery Shop →  IFood Mercado
+      Cancelamento do pedido
+      Entrega finalizada
+Status/Etapas do pedido do IFood Mercado →  Delivery Shop
+      Entrega finalizada
+      
+===== PAGINA 22 =====
+Orçamento - Envio de WhatsApp com anexo
+===== PAGINA 23 =====
+Orçamento - Envio de WhatsApp com anexo
+===== PAGINA 24 =====
+Orçamento - Visualizar valores de Cashback
+===== PAGINA 25 =====
+OBRIGADO!
+Dúvidas ?

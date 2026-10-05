@@ -1,0 +1,14 @@
+{
+  "name": "melhoriasshop",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site informativo das melhorias da versao 6.1514 do wShop",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node teste_site.js && node validate.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

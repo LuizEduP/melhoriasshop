@@ -1,0 +1,868 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Novidades da versão 6.1514 do wShop Alterdata e principais funções do sistema.">
+  <title>Novidades wShop 6.1514 | Alterdata</title>
+  <script>document.documentElement.classList.add('js');</script>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- ==================== Cabeçalho ==================== -->
+  <header class="topo">
+    <div class="container topo-conteudo">
+      <img src="img/logo-wshop.png" alt="Logo wShop" class="logo">
+      <div class="topo-texto">
+        <span class="topo-selo">Novidades da versão</span>
+        <h1>wShop <span>6.1514</span></h1>
+        <p class="topo-subtitulo">
+          Veja o que chega de novo no wShop nesta atualização e conheça
+          as principais funções do sistema para o seu dia a dia.
+        </p>
+        <div class="topo-acoes">
+          <a class="btn btn-secundario" href="#novidades" id="btn-novidades" aria-expanded="false" aria-controls="formas">Ver novidades</a>
+          <a class="btn btn-secundario" href="#funcoes" id="btn-formas" aria-expanded="false" aria-controls="formas">Formas de controlar melhor a operação</a>
+        </div>
+        <p class="topo-info">Disponível em 5 de agosto de 2026 · <a href="https://ajuda.alterdata.com.br/ndvw/6-1514" target="_blank" rel="noopener">Ver na central de ajuda</a></p>
+      </div>
+    </div>
+
+    <!-- ==================== Visão geral (no topo) ==================== -->
+    <div class="container topo-visao" id="visao-geral">
+      <h2 class="secao-titulo revelar">Visão geral: 225 processos</h2>
+      <p class="secao-subtitulo revelar">
+        A versão 6.1514 traz <strong>225 processos</strong> de melhoria divididos em
+        ajustes, melhorias de proteção e adequações de legislação.
+      </p>
+
+      <div class="numeros">
+        <div class="numero-caixa total revelar">
+          <div class="numero-icone">&#10038;</div>
+          <div class="numero-valor" data-contador="225">0</div>
+          <div class="numero-rotulo">Processos na versão</div>
+        </div>
+        <div class="numero-caixa ajustes revelar">
+          <div class="numero-icone">&#9881;</div>
+          <div class="numero-valor" data-contador="130">0</div>
+          <div class="numero-rotulo">Ajustes</div>
+        </div>
+        <div class="numero-caixa melhorias revelar">
+          <div class="numero-icone">&#9733;</div>
+          <div class="numero-valor" data-contador="87">0</div>
+          <div class="numero-rotulo">Melhoria &amp; Proteção</div>
+        </div>
+        <div class="numero-caixa legislacao revelar">
+          <div class="numero-icone">&#9878;</div>
+          <div class="numero-valor" data-contador="5">0</div>
+          <div class="numero-rotulo">Legislação</div>
+        </div>
+      </div>
+    </div>
+
+    <a class="seta-baixo" href="#novidades" aria-label="Rolar para baixo">&#9660;</a>
+
+    <!-- Painel aberto pelos botões "Ver novidades" e "Formas de controlar
+         melhor a operação": o clique troca o conteúdo aqui embaixo, sem rolar
+         a página. Os blocos são espelhados (via JS) das seções #novidades e
+         #funcoes, no corpo da página. -->
+    <section class="painel-formas" id="formas" hidden>
+      <div class="container">
+        <div class="painel-conteudo" id="painel-novidades" hidden>
+          <h2 class="secao-titulo">Novidades da versão 6.1514</h2>
+          <p class="secao-subtitulo">
+            Os destaques oficiais desta atualização, reunidos aqui mesmo —
+            sem precisar rolar a página até a seção de novidades.
+          </p>
+          <div class="lista-cards" id="lista-novidades"></div>
+        </div>
+        <div class="painel-conteudo" id="painel-funcoes">
+          <h2 class="secao-titulo">Formas de controlar melhor a operação</h2>
+          <p class="secao-subtitulo">
+            Veja aqui mesmo, sem precisar rolar até o fim da página, as principais
+            formas de acompanhar e controlar a operação da sua loja com o wShop.
+          </p>
+          <div class="lista-cards cards-4" id="lista-formas"></div>
+        </div>
+      </div>
+    </section>
+  </header>
+
+  <!-- ==================== Menu ==================== -->
+  <nav class="menu">
+    <ul>
+      <li><a href="#visao-geral">Visão geral</a></li>
+      <li><a href="#novidades">Novidades 6.1514</a></li>
+      <li><a href="#ajustes">Ajustes 6.1514</a></li>
+      <li><a href="#funcoes">Funções do wShop</a></li>
+      <li><a href="#manuais">Manuais</a></li>
+      <li><a href="#duvidas">Dúvidas</a></li>
+    </ul>
+  </nav>
+
+  <main>
+
+    <!-- ==================== Novidades ==================== -->
+    <section class="secao alternada" id="novidades">
+      <div class="container">
+        <h2 class="secao-titulo revelar">Novidades da versão 6.1514</h2>
+        <p class="secao-subtitulo revelar">
+          Os destaques oficiais desta atualização, conforme a apresentação de review
+          da versão e a página de novidades da central de ajuda Alterdata.
+        </p>
+        <p class="fonte-nota revelar">
+          Fonte:
+          <a href="https://ajuda.alterdata.com.br/ndvw/6-1514" target="_blank" rel="noopener">6.1514 na central de ajuda</a>
+          · os números de processo indicam o item correspondente na página oficial.
+        </p>
+
+        <div class="lista-cards">
+
+          <!-- 1. Nova tela de vendas do Nota Fácil -->
+          <article class="card largo revelar">
+            <span class="card-tag">Interface</span>
+            <h3>Nova tela de vendas do Nota Fácil</h3>
+            <p>
+              A interface de emissão foi completamente redesenhada: abas de
+              <strong>Venda</strong> e <strong>Dados Adicionais</strong>, com telas
+              dedicadas para cliente, vendedor e recebimentos. Menos poluição visual,
+              um processo de venda mais limpo e ágil — com atalhos de teclado para
+              operar o PDV sem tirar as mãos do teclado.
+            </p>
+            <div class="antes-depois">
+              <div>
+                <span class="rotulo cinza">Antes</span>
+                <img src="img/nota-facil-atual.png" alt="Nota Fácil - interface atual" loading="lazy">
+              </div>
+              <div>
+                <span class="rotulo verde">Agora</span>
+                <img src="img/nota-facil-nova.png" alt="Nota Fácil - nova interface" loading="lazy">
+              </div>
+            </div>
+            <div class="card-meta">
+              <span class="card-proc">Processo NOTAF-9593</span>
+              <a class="link-manual" href="https://ajuda.alterdata.com.br/x/AQUdFQ" target="_blank" rel="noopener">Manual: Lançar Vendas no Nota Fácil</a>
+            </div>
+          </article>
+
+          <!-- 2. iFood Mercado + Delivery -->
+          <article class="card revelar">
+            <span class="card-tag">Delivery</span>
+            <h3>iFood Mercado integrado ao Delivery do Shop</h3>
+            <p>
+              Os pedidos do iFood Mercado chegam <strong>automaticamente</strong> ao
+              módulo Delivery, eliminando a digitação manual:
+            </p>
+            <ul>
+              <li><strong>Precisão por EAN:</strong> o produto é identificado pelo código de barras, evitando furos de estoque;</li>
+              <li><strong>Sincronia com o Separador:</strong> o pedido só entra na tela de vendas após ser finalizado no app de separação do iFood;</li>
+              <li>Ativação em <strong>Vendas ➔ Delivery ➔ Opções ➔ Integração</strong> (foco em varejo/mercearia, sem adicionais).</li>
+            </ul>
+            <figure>
+              <img src="img/ifood-mercado.jpg" alt="Integração do Delivery Shop com o iFood Mercado" loading="lazy">
+              <figcaption>Pedidos do iFood Mercado no Delivery Shop</figcaption>
+            </figure>
+            <div class="card-meta">
+              <span class="card-proc">Processo WSHOP-135810</span>
+            </div>
+          </article>
+
+          <!-- 3. Integração com a Napp -->
+          <article class="card revelar">
+            <span class="card-tag">Integração</span>
+            <h3>Gestão inteligente com a Napp via API</h3>
+            <p>
+              Vendas, produtos e estoque agora sincronizam com a Napp por integração
+              direta via API — um conector instalado como serviço do Windows, com
+              <strong>validação automática</strong> que corrige inconsistências antes
+              do envio.
+            </p>
+            <ul>
+              <li>Valores e descontos validados em cada venda;</li>
+              <li>Catálogo protegido contra duplicidades;</li>
+              <li>Status traduzidos automaticamente para o padrão Napp.</li>
+            </ul>
+            <div class="card-meta">
+              <span class="card-proc">Processo 136181</span>
+              <a class="link-manual" href="https://novoajuda.atlassian.net/wiki/spaces/erp4me/pages/1932328989" target="_blank" rel="noopener">Manual: Integrador Napp configurado</a>
+            </div>
+          </article>
+
+          <!-- 4. Inventário com data retroativa -->
+          <article class="card revelar">
+            <span class="card-tag">Estoque</span>
+            <h3>Inventário com data retroativa</h3>
+            <p>
+              Agora você define a <strong>data exata da apuração</strong> do estoque
+              direto na tela de inventário. Basta habilitar
+              <em>“Habilitar inventário com data retroativa”</em> em Opções / Geral do
+              módulo e usar o seletor de data no topo da grade: o cálculo reflete o dia
+              escolhido sem impactar os lançamentos do dia atual.
+            </p>
+            <div class="card-meta">
+              <span class="card-proc">Processo WSHOP-135320</span>
+            </div>
+          </article>
+
+          <!-- 5. Conferência cega independente -->
+          <article class="card revelar">
+            <span class="card-tag">Estoque</span>
+            <h3>Conferência cega independente</h3>
+            <p>
+              O módulo de Conferência Cega agora abre de forma <strong>independente</strong>,
+              sem a necessidade de manter o Shop aberto ou vinculado. Menos consumo de
+              memória e a liberdade de conferir múltiplas lojas enquanto outros módulos
+              estão em uso.
+            </p>
+            <div class="card-meta">
+              <span class="card-proc">Processo WSHOP-135274</span>
+            </div>
+          </article>
+
+          <!-- 6. Controle de venda por loja -->
+          <article class="card revelar">
+            <span class="card-tag">Rede de Lojas</span>
+            <h3>Controle de venda por loja</h3>
+            <p>
+              Restrinja a venda de produtos específicos para lojas da rede de forma
+              automatizada: ao marcar um item como <strong>indisponível</strong> no iShop,
+              ele é inativado na empresa de destino no wShop.
+            </p>
+            <ul>
+              <li>Ative em <strong>Configurações / Rede de Lojas ➔ Trabalhar com produtos diferenciados por Empresa</strong>;</li>
+              <li>Ou inative no iShop para aplicar a regra em todas as unidades de uma vez.</li>
+            </ul>
+            <figure>
+              <img src="img/ishop-indisponivel.jpg" alt="Opção produto indisponível para esta empresa no iShop" loading="lazy">
+              <figcaption>Opção “Produto indisponível para esta empresa”</figcaption>
+            </figure>
+            <div class="card-meta">
+              <span class="card-proc">Processo WSHOP-136103</span>
+            </div>
+          </article>
+
+          <!-- 7. Zé Delivery centralizado -->
+          <article class="card revelar">
+            <span class="card-tag">Delivery</span>
+            <h3>Operação no Zé Delivery centralizada</h3>
+            <p>
+              Os pedidos do Zé Delivery passam a aparecer <strong>automaticamente</strong>
+              no módulo Delivery do Shop, com controle preciso de status e valores e
+              novos ícones que identificam a origem de cada pedido.
+            </p>
+            <ul>
+              <li><strong>Flexibilidade:</strong> edição manual dos pedidos;</li>
+              <li><strong>Gestão de descontos:</strong> interpreta descontos da plataforma ou do estabelecimento;</li>
+              <li><strong>Atenção:</strong> a sincronia de estoque com o Zé Delivery ainda é manual.</li>
+            </ul>
+            <figure>
+              <img src="img/ze-delivery.jpg" alt="Integração do Delivery Shop com o Zé Delivery" loading="lazy">
+              <figcaption>Pedidos do Zé Delivery no Delivery Shop</figcaption>
+            </figure>
+            <div class="card-meta">
+              <span class="card-proc">Processo WSHOP-135797</span>
+            </div>
+          </article>
+
+          <!-- 8. Produção automática de itens compostos -->
+          <article class="card revelar">
+            <span class="card-tag">Nota Fácil</span>
+            <h3>Produção automática de itens compostos</h3>
+            <p>
+              Vendeu um produto composto? O Nota Fácil cuida da <strong>produção e da
+              baixa dos insumos</strong> de forma totalmente automatizada, no
+              encerramento do caixa ou na abertura do módulo no dia seguinte — sem
+              intervenção manual.
+            </p>
+            <p class="obs"><strong>Atenção:</strong> uma vez inserido no processo de produção automática, o produto não pode ser desfeito — confira as composições.</p>
+            <figure>
+              <img src="img/producao-automatica.png" alt="Configuração de produção automática de produto composto" loading="lazy">
+              <figcaption>Configurações de produtos: habilitar produção automática</figcaption>
+            </figure>
+            <div class="card-meta">
+              <span class="card-proc">Processo NOTAF-9976</span>
+              <a class="link-manual" href="https://ajuda.alterdata.com.br/shop/vendas-aba-do-shop/nota-facil-shop/producao-automatica-de-itens-compostos-no-nota-facil" target="_blank" rel="noopener">Manual: Produção Automática no Nota Fácil</a>
+            </div>
+          </article>
+
+          <!-- 9. Orçamento em PDF no WhatsApp -->
+          <article class="card revelar">
+            <span class="card-tag">Orçamento</span>
+            <h3>Orçamento em PDF direto no WhatsApp</h3>
+            <p>
+              A integração com o <strong>Karoo Bot</strong> envia o orçamento em PDF,
+              com mensagem personalizada, direto da tela do módulo Orçamento — sem
+              precisar abrir o WhatsApp Web. O cliente recebe uma proposta elegante e
+              estruturada em poucos cliques.
+            </p>
+            <p class="obs"><strong>Como ativar:</strong> contate o setor comercial para liberar o recurso e escolha a opção de envio via Karoo Bot.</p>
+            <figure>
+              <img src="img/whatsapp-anexo.png" alt="Envio de orçamento por WhatsApp com anexo" loading="lazy">
+              <figcaption>Envio do orçamento por WhatsApp com anexo</figcaption>
+            </figure>
+            <div class="card-meta">
+              <span class="card-proc">Processo WSHOP-109270</span>
+            </div>
+          </article>
+
+          <!-- 10. CNPJ alfanumérico -->
+          <article class="card revelar">
+            <span class="card-tag">Fiscal</span>
+            <h3>Total conformidade com o CNPJ alfanumérico</h3>
+            <p>
+              Sua solução já está preparada para a <strong>Instrução Normativa RFB
+              nº 2.229/2024</strong>: as telas de cadastro e os esquemas de validação
+              aceitam o novo CNPJ que mescla letras e números, garantindo continuidade
+              das operações fiscais e conformidade com a Receita Federal.
+            </p>
+            <figure>
+              <img src="img/cnpj-alfanumerico.png" alt="Cadastro de cliente com CNPJ alfanumérico" loading="lazy">
+              <figcaption>Cadastro de clientes aceitando CNPJ alfanumérico</figcaption>
+            </figure>
+            <div class="card-meta">
+              <span class="card-proc">Processo WSHOP 119237</span>
+            </div>
+          </article>
+
+          <!-- 11. Perfis de usuários -->
+          <article class="card revelar">
+            <span class="card-tag">Segurança</span>
+            <h3>Perfis de usuários no Shop</h3>
+            <p>
+              Cadastre colaboradores com <strong>modelos de permissões prontos</strong>:
+              crie perfis de acesso e, ao cadastrar um novo usuário, selecione o perfil
+              para aplicar todas as liberações instantaneamente. Menos cliques,
+              padronização de acessos e menor risco de liberação indevida.
+            </p>
+            <p class="obs">Onde encontrar: <strong>Configurações e Manutenção &gt; Usuários &gt; Perfis</strong>.</p>
+            <figure>
+              <img src="img/perfis-usuario.jpg" alt="Gerenciador de perfis de usuários" loading="lazy">
+              <figcaption>Gerenciador de perfis de usuários</figcaption>
+            </figure>
+            <div class="card-meta">
+              <span class="card-proc">Processo WSHOP-83833</span>
+              <a class="link-manual" href="https://ajuda.alterdata.com.br/x/9YjoF" target="_blank" rel="noopener">Manual: Cadastro de Usuários - Shop</a>
+            </div>
+          </article>
+
+          <!-- 12. Valor mínimo de parcela -->
+          <article class="card revelar">
+            <span class="card-tag">Margem</span>
+            <h3>Valor mínimo da parcela</h3>
+            <p>
+              Nova regra de <strong>valor mínimo por parcela</strong> direto no PDV e no
+              checkout: defina os limites nas configurações de pagamento e o sistema
+              ajusta o parcelamento de forma automática, protegendo sua margem em vendas
+              fracionadas.
+            </p>
+            <figure>
+              <img src="img/valor-min-parcela.png" alt="Campo Valor Mínimo da Parcela na grade de parcelas" loading="lazy">
+              <figcaption>Cadastro da forma de pagamento, aba Administradora</figcaption>
+            </figure>
+            <div class="card-meta">
+              <span class="card-proc">Processo WSHOP-138330</span>
+            </div>
+          </article>
+
+          <!-- 13. Cashback no orçamento -->
+          <article class="card revelar">
+            <span class="card-tag">Orçamento</span>
+            <h3>Cashback do cliente no orçamento</h3>
+            <p>
+              O saldo de <strong>cashback</strong> do cliente agora aparece
+              automaticamente na tela de criação de orçamentos: selecione o cliente e
+              ofereça o desconto na hora de fechar a proposta — um argumento a mais para
+              acelerar a conversão.
+            </p>
+            <figure>
+              <img src="img/cashback.png" alt="Valores de cashback no orçamento" loading="lazy">
+              <figcaption>Valores de cashback no orçamento</figcaption>
+            </figure>
+            <div class="card-meta">
+              <span class="card-proc">Processo WSHOP-137299</span>
+            </div>
+          </article>
+
+          <!-- 14. Nota de débito por perda em estoque -->
+          <article class="card largo revelar">
+            <span class="card-tag">Reforma Tributária</span>
+            <h3>Nota de débito por perda em estoque</h3>
+            <p>
+              Nova finalidade de NF-e (<strong>6 – NF-e Débito</strong>) para baixas de
+              estoque no contexto da Reforma Tributária: no Movimento de Estoque,
+              selecione a nota de débito por perda e vincule a NF-e de origem. O sistema
+              calcula <strong>IBS/CBS de forma automática e proporcional</strong> e
+              realiza o estorno de créditos em casos de perda, perecimento, deterioração,
+              roubo, furto ou extravio — sem cálculo manual.
+            </p>
+            <div class="antes-depois">
+              <div>
+                <img src="img/nota-debito-perda.png" alt="Operação de perda em estoque - Reforma Tributária" loading="lazy">
+              </div>
+              <div>
+                <img src="img/nota-debito-nfe.png" alt="NF-e emitida com finalidade 6 - NF-e Débito" loading="lazy">
+              </div>
+            </div>
+            <div class="card-meta">
+              <span class="card-proc">Processo WSHOP-136527</span>
+              <a class="link-manual" href="https://ajuda.alterdata.com.br/x/6gdsFQ" target="_blank" rel="noopener">Manual: Nota de Perda em Estoque no Shop</a>
+            </div>
+          </article>
+
+          <!-- 15. NF-e de devolução (apresentação de review) -->
+          <article class="card revelar">
+            <span class="card-tag">Fiscal</span>
+            <h3>NF-e de devolução: documento referenciado por item</h3>
+            <p>
+              Em notas de devolução, o referenciamento do documento fiscal passa a ser
+              feito exclusivamente no grupo <strong>DFeReferenciado</strong>, informando
+              a chave de acesso e o número do item (nItem) de cada produto devolvido.
+            </p>
+            <figure>
+              <img src="img/nfe-devolucao.png" alt="Notas referenciadas por item na NF-e de devolução" loading="lazy">
+              <figcaption>Aba Notas referenciadas com chave de acesso por item</figcaption>
+            </figure>
+            <div class="card-meta">
+              <span class="card-proc">Fonte: Review 6.1514</span>
+            </div>
+          </article>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- ==================== Todos os ajustes ==================== -->
+    <section class="secao" id="ajustes">
+      <div class="container">
+        <h2 class="secao-titulo revelar">Todos os ajustes e correções</h2>
+        <p class="secao-subtitulo revelar">
+          A versão 6.1514 traz 225 processos no total, conforme a apresentação oficial,
+          e a central de ajuda detalha 200 deles. Filtre por tipo ou procure por
+          palavras-chave, número do processo ou sistema afetado.
+        </p>
+        <p class="nota-fonte revelar">
+          Detalhamento completo na
+          <a href="https://ajuda.alterdata.com.br/ndvw/6-1514" target="_blank" rel="noopener">página oficial dos ajustes 6.1514</a>.
+        </p>
+
+        <noscript>
+          <p class="obs">Ative o JavaScript para consultar a lista de processos — ou acesse a
+            <a href="https://ajuda.alterdata.com.br/ndvw/6-1514" target="_blank" rel="noopener">página oficial dos ajustes</a>.
+          </p>
+        </noscript>
+
+        <div class="barra-filtros revelar">
+          <input type="search" id="busca-ajuste" class="campo-busca"
+                 placeholder="Buscar por palavra, processo ou sistema…"
+                 aria-label="Buscar processos da versão 6.1514">
+        </div>
+        <div class="chips revelar" id="chips-ajuste"></div>
+        <p class="contador-ajustes revelar" id="contador-ajuste"></p>
+
+        <div class="caixa-ajustes revelar">
+          <ul class="lista-ajustes" id="lista-ajuste"></ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==================== Funções ==================== -->
+    <section class="secao alternada" id="funcoes">
+      <div class="container">
+        <h2 class="secao-titulo revelar">Conheça as funções do wShop</h2>
+        <p class="secao-subtitulo revelar">
+          O wShop reúne as principais rotinas de loja em um só sistema. Veja abaixo
+          as funções disponíveis e acesse os manuais de cada uma.
+        </p>
+
+        <div class="lista-cards cards-4">
+
+          <article class="card revelar">
+            <div class="card-funcao">
+              <span class="num">1</span>
+              <div>
+                <h3>Acompanhamento diário das vendas</h3>
+                <p>
+                  O wShop possui o Quadro de Venda Diária, que permite acompanhar
+                  vendas, metas, atendimentos, peças vendidas, trocas, devoluções
+                  e ticket médio.
+                </p>
+              </div>
+            </div>
+          </article>
+
+          <article class="card revelar">
+            <div class="card-funcao">
+              <span class="num">2</span>
+              <div>
+                <h3>Relatórios de vendas e vendedores</h3>
+                <p>
+                  Permite analisar produtos vendidos, desempenho dos vendedores,
+                  comissões, evolução das vendas e recebimentos por forma de pagamento.
+                </p>
+              </div>
+            </div>
+          </article>
+
+          <article class="card revelar">
+            <div class="card-funcao">
+              <span class="num">3</span>
+              <div>
+                <h3>Controle de estoque</h3>
+                <p>
+                  Consulte extrato de produtos, posição de estoque e venda, avaliação
+                  de estoque, movimentações, CMV e ponto crítico.
+                </p>
+              </div>
+            </div>
+          </article>
+
+          <article class="card revelar">
+            <div class="card-funcao">
+              <span class="num">4</span>
+              <div>
+                <h3>Curva ABC de produtos</h3>
+                <p>
+                  Auxilia na identificação dos produtos mais relevantes para a
+                  operação, considerando vendas, custos, lucro e giro.
+                </p>
+                <a class="link-manual" href="https://ajuda.alterdata.com.br/sat/curva-abc-de-produtos-273287780.html" target="_blank" rel="noopener">Curva ABC de produtos</a>
+                <a class="link-manual" href="https://ajuda.alterdata.com.br/sat/curva-abc-de-clientes-273287749.html" target="_blank" rel="noopener">Curva ABC de clientes</a>
+              </div>
+            </div>
+          </article>
+
+          <article class="card revelar">
+            <div class="card-funcao">
+              <span class="num">5</span>
+              <div>
+                <h3>Gestão financeira</h3>
+                <p>
+                  Acompanhe contas a pagar e receber, fluxo de caixa, recebimentos,
+                  pagamentos, receitas e despesas.
+                </p>
+              </div>
+            </div>
+          </article>
+
+          <article class="card revelar">
+            <div class="card-funcao">
+              <span class="num">6</span>
+              <div>
+                <h3>Controle de caixa e formas de pagamento</h3>
+                <p>
+                  Consulte resumo do dia, recebimentos por forma de pagamento,
+                  fechamento de caixa, movimentos do terminal e operações por usuário.
+                </p>
+              </div>
+            </div>
+          </article>
+
+          <article class="card revelar">
+            <div class="card-funcao">
+              <span class="num">7</span>
+              <div>
+                <h3>Relatórios gerenciais para tomada de decisão</h3>
+                <p>
+                  Relatórios de vendas, estoque, financeiro, documentos fiscais,
+                  produtos, clientes, fornecedores e vendedores.
+                </p>
+                <a class="link-manual" href="https://ajuda.alterdata.com.br/sat/relatorios-do-shop-281772302.html" target="_blank" rel="noopener">Relatórios do Shop</a>
+                <a class="link-manual" href="https://ajuda.alterdata.com.br/sat/cotacao-de-precos-281772116.html" target="_blank" rel="noopener">Cotação de preços</a>
+                <a class="link-manual" href="https://ajuda.alterdata.com.br/sat/bi-documentos-272141740.html" target="_blank" rel="noopener">BI Documentos</a>
+                <a class="link-manual" href="https://ajuda.alterdata.com.br/sat/bi-comissao-272141728.html" target="_blank" rel="noopener">BI Comissão</a>
+                <a class="link-manual" href="https://ajuda.alterdata.com.br/sat/diretorio-geral-de-relatorios-e-caminhos-de-menu-tabelas-consolidadas-344624293.html" target="_blank" rel="noopener">Diretório geral de relatórios</a>
+              </div>
+            </div>
+          </article>
+
+          <article class="card revelar">
+            <div class="card-funcao">
+              <span class="num">8</span>
+              <div>
+                <h3>I.A. de Compras</h3>
+                <p>
+                  Analisa o histórico de vendas e a situação atual do estoque para
+                  sugerir compras, considerando estoque mínimo, máximo, crítico e
+                  pedidos em aberto.
+                </p>
+                <a class="link-manual" href="https://ajuda.alterdata.com.br/sat/i-a-de-compras-otimizacao-e-analise-de-estoque-273286068.html" target="_blank" rel="noopener">I.A. de Compras</a>
+              </div>
+            </div>
+          </article>
+
+          <article class="card revelar">
+            <div class="card-funcao">
+              <span class="num">9</span>
+              <div>
+                <h3>Integração com o WCash</h3>
+                <p>
+                  O wShop pode enviar informações financeiras ao WCash, incluindo
+                  baixas de títulos, receitas, despesas e movimentações financeiras.
+                </p>
+                <a class="link-manual" href="https://ajuda.alterdata.com.br/sat/descomplicando-a-integracao-com-wcash-shop-357797260.html" target="_blank" rel="noopener">Integração WCash e Shop</a>
+              </div>
+            </div>
+          </article>
+
+          <article class="card revelar">
+            <div class="card-funcao">
+              <span class="num">10</span>
+              <div>
+                <h3>Apoio às rotinas fiscais</h3>
+                <p>
+                  Os dados do wShop são utilizados em documentos fiscais,
+                  movimentações de estoque e registros do Sintegra.
+                </p>
+                <a class="link-manual" href="https://ajuda.alterdata.com.br/sat/registros-sintegra-x-wshop-281772379.html" target="_blank" rel="noopener">Registros Sintegra x wShop</a>
+              </div>
+            </div>
+          </article>
+
+          <!-- 11. AlterAgente (Untitled-2) -->
+          <article class="card revelar">
+            <div class="card-funcao">
+              <span class="num">11</span>
+              <div>
+                <h3>AlterAgente: automação de rotinas</h3>
+                <p>
+                  Programe processos para execução automática em horários definidos,
+                  sem depender da operação manual diária. Os agendamentos podem ser
+                  <strong>diários, semanais ou mensais</strong>, e o sistema mantém um
+                  registro das ocorrências para verificar se as rotinas foram executadas.
+                </p>
+                <ul>
+                  <li>Reajuste de preços por lote;</li>
+                  <li>Baixa automática de títulos;</li>
+                  <li>Atualização de estoque e da Curva ABC de produtos e clientes.</li>
+                </ul>
+                <a class="link-manual" href="https://ajuda.alterdata.com.br/sat/alteragente-272138431.html" target="_blank" rel="noopener">AlterAgente</a>
+              </div>
+            </div>
+          </article>
+
+          <!-- 12. Conferência de Expedição (Untitled-2) -->
+          <article class="card revelar">
+            <div class="card-funcao">
+              <span class="num">12</span>
+              <div>
+                <h3>Conferência de Expedição com conferência cega</h3>
+                <p>
+                  Confira produtos de vendas ou orçamentos com leitor de código de
+                  barras, inclusive no modo <strong>conferência cega</strong>: o
+                  expedidor separa a mercadoria sem visualizar previamente toda a lista
+                  de itens — ideal para operações com alto volume de separação.
+                </p>
+                <ul>
+                  <li>Controla quantidades e identifica produtos incorretos (itens a mais ou a menos);</li>
+                  <li>Registra divergências e permite retomar conferências pendentes;</li>
+                  <li>Trabalha com entrega futura e exibe a foto do produto em caso de divergência.</li>
+                </ul>
+                <a class="link-manual" href="https://ajuda.alterdata.com.br/sat/conferencia-de-expedicao-273286103.html" target="_blank" rel="noopener">Conferência de Expedição</a>
+              </div>
+            </div>
+          </article>
+
+          <!-- 13. Controle de Entrega e Expedição (Untitled-2) -->
+          <article class="card revelar">
+            <div class="card-funcao">
+              <span class="num">13</span>
+              <div>
+                <h3>Controle de Entrega e Expedição</h3>
+                <p>
+                  Acompanhe o processo entre a venda, a separação e a entrega do
+                  produto ao cliente — o cumprimento da entrega monitorado do início
+                  ao fim.
+                </p>
+                <ul>
+                  <li>Localização por cliente, documento, orçamento, código ou data;</li>
+                  <li>Baixa parcial ou total (por cliente ou documento), com histórico e cancelamento;</li>
+                  <li>Status personalizados para cada etapa da entrega;</li>
+                  <li>Destaque para produtos com estoque positivo, com pedido de compra aberto ou que precisam ser encomendados;</li>
+                  <li>Colunas e cenários de acompanhamento personalizáveis.</li>
+                </ul>
+                <a class="link-manual" href="https://ajuda.alterdata.com.br/shop/estoque-aba-do-shop/controle-de-entrega-e-expedicao/configurar-controle-de-entrega-e-expedicao" target="_blank" rel="noopener">Controle de Entrega e Expedição</a>
+                <a class="link-manual" href="https://ajuda.alterdata.com.br/sat/controle-de-entrega-e-expedicao-273286769.html" target="_blank" rel="noopener">Visão geral do módulo</a>
+              </div>
+            </div>
+          </article>
+
+          <!-- 14. Cotação de preços (Untitled-2) -->
+          <article class="card revelar">
+            <div class="card-funcao">
+              <span class="num">14</span>
+              <div>
+                <h3>Cotação de preços com pedidos de compra</h3>
+                <p>
+                  A Cotação não apenas registra preços de fornecedores: ela compara
+                  condições comerciais e transforma o resultado em
+                  <strong>pedidos de compra</strong> — conectando cotação, compras e
+                  financeiro dentro do próprio wShop.
+                </p>
+                <ul>
+                  <li>Seleção de produtos por grupo, família, fornecedor ou sugestão de compra;</li>
+                  <li>Preço-alvo, prazo de pagamento e prazo de entrega comparados item a item;</li>
+                  <li>Envio da cotação por Excel ou e-mail e importação da resposta do fornecedor;</li>
+                  <li>Geração de pedidos de compra e títulos no financeiro conforme a condição de pagamento.</li>
+                </ul>
+                <a class="link-manual" href="https://ajuda.alterdata.com.br/shop/compras-aba-do-shop/cotacao-do-shop/dados-da-cotacao" target="_blank" rel="noopener">Dados da cotação</a>
+              </div>
+            </div>
+          </article>
+
+          <!-- 15. Reajuste de preços por fórmula (Untitled-2) -->
+          <article class="card revelar">
+            <div class="card-funcao">
+              <span class="num">15</span>
+              <div>
+                <h3>Reajuste de preços por fórmula e lote programado</h3>
+                <p>
+                  Crie fórmulas para reajustar preços com base em variáveis do próprio
+                  produto — custo, custo de reposição, preço sugerido, lucro, ICMS, IPI,
+                  PIS, COFINS e substituição tributária — em vez de alterar item por item.
+                </p>
+                <ul>
+                  <li>Aplicação por filtros e a grupos de produtos;</li>
+                  <li>Data e hora definidas para o lote, com volta automática ao preço anterior;</li>
+                  <li>Lotes gerados para execução posterior e integração ao AlterAgente.</li>
+                </ul>
+                <a class="link-manual" href="https://ajuda.alterdata.com.br/shop/produtos-e-servicos/precos/reajuste-de-precos/reajuste-por-formula" target="_blank" rel="noopener">Reajuste por fórmula</a>
+                <a class="link-manual" href="https://ajuda.alterdata.com.br/shop/produtos-e-servicos/precos/reajuste-de-precos/manutencao-de-precos-de-produtos-do-shop" target="_blank" rel="noopener">Manutenção de preços</a>
+              </div>
+            </div>
+          </article>
+
+        </div>
+
+        <p class="obs revelar">Essas funções representam o diferencial do wShop como retaguarda de uma operação comercial — indo além do cadastro, das vendas e dos relatórios básicos.</p>
+      </div>
+    </section>
+
+    <!-- ==================== Manuais ==================== -->
+    <section class="secao" id="manuais">
+      <div class="container">
+        <h2 class="secao-titulo revelar">Central de manuais</h2>
+        <p class="secao-subtitulo revelar">
+          Acesse os manuais on-line de cada função direto na central de ajuda
+          da Alterdata. Os links abrem em uma nova aba.
+        </p>
+
+        <div class="grupo-manuais">
+          <h3 class="grupo-titulo revelar">Funções do wShop</h3>
+          <ul class="lista-manuais">
+          <li class="revelar">
+            <a href="https://ajuda.alterdata.com.br/sat/relatorios-do-shop-281772302.html" target="_blank" rel="noopener">Relatórios do Shop</a>
+            <span class="descricao">Relatórios de vendas, estoque, financeiro e cadastros</span>
+          </li>
+          <li class="revelar">
+            <a href="https://ajuda.alterdata.com.br/sat/cotacao-de-precos-281772116.html" target="_blank" rel="noopener">Cotação de preços</a>
+            <span class="descricao">Consulta e cotação de preços de produtos</span>
+          </li>
+          <li class="revelar">
+            <a href="https://ajuda.alterdata.com.br/sat/curva-abc-de-produtos-273287780.html" target="_blank" rel="noopener">Curva ABC de produtos</a>
+            <span class="descricao">Priorização dos produtos mais relevantes</span>
+          </li>
+          <li class="revelar">
+            <a href="https://ajuda.alterdata.com.br/sat/curva-abc-de-clientes-273287749.html" target="_blank" rel="noopener">Curva ABC de clientes</a>
+            <span class="descricao">Priorização dos clientes mais relevantes</span>
+          </li>
+          <li class="revelar">
+            <a href="https://ajuda.alterdata.com.br/sat/bi-documentos-272141740.html" target="_blank" rel="noopener">BI Documentos</a>
+            <span class="descricao">Análise de documentos fiscais</span>
+          </li>
+          <li class="revelar">
+            <a href="https://ajuda.alterdata.com.br/sat/bi-comissao-272141728.html" target="_blank" rel="noopener">BI Comissão</a>
+            <span class="descricao">Análise de comissões de vendedores</span>
+          </li>
+          <li class="revelar">
+            <a href="https://ajuda.alterdata.com.br/sat/diretorio-geral-de-relatorios-e-caminhos-de-menu-tabelas-consolidadas-344624293.html" target="_blank" rel="noopener">Diretório geral de relatórios</a>
+            <span class="descricao">Caminhos de menu e tabelas consolidadas</span>
+          </li>
+          <li class="revelar">
+            <a href="https://ajuda.alterdata.com.br/sat/i-a-de-compras-otimizacao-e-analise-de-estoque-273286068.html" target="_blank" rel="noopener">I.A. de Compras</a>
+            <span class="descricao">Otimização e análise de estoque com sugestão de compras</span>
+          </li>
+          <li class="revelar">
+            <a href="https://ajuda.alterdata.com.br/sat/descomplicando-a-integracao-com-wcash-shop-357797260.html" target="_blank" rel="noopener">Integração WCash e Shop</a>
+            <span class="descricao">Envio de informações financeiras ao WCash</span>
+          </li>
+          <li class="revelar">
+            <a href="https://ajuda.alterdata.com.br/sat/registros-sintegra-x-wshop-281772379.html" target="_blank" rel="noopener">Registros Sintegra x wShop</a>
+            <span class="descricao">Apoio às rotinas fiscais e registros do Sintegra</span>
+          </li>
+        </ul>
+        </div>
+
+        <div class="grupo-manuais">
+          <h3 class="grupo-titulo revelar">Novidades 6.1514 e aprendizagem</h3>
+          <ul class="lista-manuais">
+            <li class="revelar">
+              <a href="https://ajuda.alterdata.com.br/ndvw/6-1514" target="_blank" rel="noopener">6.1514 — Novidades das Versões</a>
+              <span class="descricao">Todos os destaques, ajustes e processos da versão</span>
+            </li>
+            <li class="revelar">
+              <a href="https://ajuda.alterdata.com.br/x/AQUdFQ" target="_blank" rel="noopener">Lançar Vendas no Nota Fácil</a>
+              <span class="descricao">Nova tela de vendas do Nota Fácil</span>
+            </li>
+            <li class="revelar">
+              <a href="https://ajuda.alterdata.com.br/shop/vendas-aba-do-shop/nota-facil-shop/producao-automatica-de-itens-compostos-no-nota-facil" target="_blank" rel="noopener">Produção Automática de Itens Compostos</a>
+              <span class="descricao">Baixa automática de insumos no Nota Fácil</span>
+            </li>
+            <li class="revelar">
+              <a href="https://ajuda.alterdata.com.br/x/9YjoF" target="_blank" rel="noopener">Cadastro de Usuários - Shop</a>
+              <span class="descricao">Perfis de usuário e permissões de acesso</span>
+            </li>
+            <li class="revelar">
+              <a href="https://ajuda.alterdata.com.br/x/6gdsFQ" target="_blank" rel="noopener">Nota de Perda em Estoque no Shop</a>
+              <span class="descricao">Nota de débito e Reforma Tributária no estoque</span>
+            </li>
+            <li class="revelar">
+              <a href="https://novoajuda.atlassian.net/wiki/spaces/erp4me/pages/1932328989" target="_blank" rel="noopener">Integrador Napp configurado</a>
+              <span class="descricao">Requisitos e configuração da integração com a Napp</span>
+            </li>
+            <li class="revelar">
+              <a href="https://ajuda.alterdata.com.br/suporteexpress" target="_blank" rel="noopener">Centro de Aprendizagem</a>
+              <span class="descricao">Trilhas de aprendizado, vídeos e tutoriais do wShop</span>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ==================== Dúvidas ==================== -->
+  <section class="duvidas" id="duvidas">
+    <div class="container">
+      <h2 class="revelar">Obrigado!</h2>
+      <p class="revelar">
+        Ficou com alguma dúvida sobre as novidades ou sobre o uso do wShop?
+        Fale com o seu atendente ou consulte a central de ajuda:
+      </p>
+      <p class="revelar">
+        Consulte também a
+        <a href="https://ajuda.alterdata.com.br/ndvw/6-1514" target="_blank" rel="noopener">página oficial das novidades 6.1514</a>
+        e o <a href="https://ajuda.alterdata.com.br/suporteexpress" target="_blank" rel="noopener">Centro de Aprendizagem</a>
+        com trilhas e vídeos.
+      </p>
+      <p class="revelar">
+        <a href="https://ajuda.alterdata.com.br" target="_blank" rel="noopener">ajuda.alterdata.com.br</a>
+      </p>
+    </div>
+  </section>
+
+  <footer class="rodape">
+    <div class="container">
+      <p>wShop — Sistema de gestão para lojas Alterdata</p>
+    </div>
+  </footer>
+
+  <script src="js/processos.js"></script>
+  <script src="js/script.js"></script>
+</body>
+</html>
+
+
+
+
+

@@ -1,0 +1,11 @@
+# Python (scripts de extracao/preview)
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Sistema
+.DS_Store
+Thumbs.db

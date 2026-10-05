@@ -1,0 +1,31 @@
+1 - Acompanhamento diário das vendas: O WShop possui o Quadro de Venda Diária, que permite acompanhar vendas, metas, atendimentos, peças vendidas, trocas, devoluções e ticket médio.
+
+2 - Relatórios de vendas e vendedores: Permite analisar produtos vendidos, desempenho dos vendedores, comissões, evolução das vendas e recebimentos por forma de pagamento.
+Controle de estoque: O WShop possibilita consultar extrato de produtos, posição de estoque e venda, avaliação de estoque, movimentações, CMV e ponto crítico.
+
+3 - Curva ABC de produtos: Auxilia na identificação dos produtos mais relevantes para a operação, considerando vendas, custos, lucro e giro.
+
+4 - Gestão financeira: O WShop permite acompanhar contas a pagar e receber, fluxo de caixa, recebimentos, pagamentos, receitas e despesas.
+
+5 - Controle de caixa e formas de pagamento: O sistema permite consultar resumo do dia, recebimentos por forma de pagamento, fechamento de caixa, movimentos do terminal e operações por usuário.
+
+6 - Relatórios gerenciais para tomada de decisão: O WShop disponibiliza relatórios de vendas, estoque, financeiro, documentos fiscais, produtos, clientes, fornecedores e vendedores.
+
+https://ajuda.alterdata.com.br/sat/relatorios-do-shop-281772302.html
+https://ajuda.alterdata.com.br/sat/cotacao-de-precos-281772116.html
+https://ajuda.alterdata.com.br/sat/curva-abc-de-produtos-273287780.html
+https://ajuda.alterdata.com.br/sat/curva-abc-de-clientes-273287749.html
+https://ajuda.alterdata.com.br/sat/bi-documentos-272141740.html
+https://ajuda.alterdata.com.br/sat/bi-comissao-272141728.html
+https://ajuda.alterdata.com.br/sat/diretorio-geral-de-relatorios-e-caminhos-de-menu-tabelas-consolidadas-344624293.html
+
+7- I.A. de Compras: Analisa o histórico de vendas e a situação atual do estoque para sugerir compras, considerando estoque mínimo, máximo, crítico e pedidos em aberto.
+
+https://ajuda.alterdata.com.br/sat/i-a-de-compras-otimizacao-e-analise-de-estoque-273286068.html
+
+8 - Integração com o WCash: O WShop pode enviar informações financeiras ao WCash, incluindo baixas de títulos, receitas, despesas e movimentações financeiras.
+https://ajuda.alterdata.com.br/sat/descomplicando-a-integracao-com-wcash-shop-357797260.html
+
+9 - Apoio às rotinas fiscais: Os dados do WShop são utilizados em documentos fiscais, movimentações de estoque e registros do Sintegra.
+https://ajuda.alterdata.com.br/sat/registros-sintegra-x-wshop-281772379.html
+
